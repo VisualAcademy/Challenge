@@ -18,5 +18,17 @@
     <ClCompile Include="macro_constant.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="constant_demo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_const.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="literal.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="literal_more.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
