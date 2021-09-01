@@ -30,5 +30,8 @@
     <ClCompile Include="literal_more.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ascii_to_number.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
