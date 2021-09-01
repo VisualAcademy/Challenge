@@ -1,6 +1,6 @@
 //[?] 문자열을 숫자로 변환하기 
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h> // atoi(), atol(), atof() 함수가 선언된 헤더 파일
 
 int main(void)
 {
