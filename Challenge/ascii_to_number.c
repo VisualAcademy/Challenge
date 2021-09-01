@@ -4,15 +4,15 @@
 
 int main(void)
 {
-    char* str = "3.141592";
+    char* str = "3.141592육오";
 
     int i = atoi(str);      // 문자열을 int 형식으로 변환
     long l = atol(str);     // 문자열을 long 형식으로 변환
-    float f = atof(str);    // 문자열을 float 형식으로 변환
+    float f = atof(str);    // 문자열을 float, double 형식으로 변환
 
     printf("%d\n", i); // 3
     printf("%ld\n", l); // 3
-    printf("%.7f\n", f); // 3.1415920
+    printf("%.7lf\n", f); // 3.1415920
 
     return 0;
 }
