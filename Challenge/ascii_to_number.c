@@ -4,7 +4,7 @@
 
 int main(void)
 {
-    char* str = "3.141592육오";
+    char* str = "3.141592육오35";
 
     int i = atoi(str);      // 문자열을 int 형식으로 변환
     long l = atol(str);     // 문자열을 long 형식으로 변환
