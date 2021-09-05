@@ -42,5 +42,8 @@
     <ClCompile Include="break-demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="while-sum-break.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
