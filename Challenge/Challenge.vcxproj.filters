@@ -33,5 +33,14 @@
     <ClCompile Include="ascii_to_number.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="break-for.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="break-infinite-loop.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="break-demo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
