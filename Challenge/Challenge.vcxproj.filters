@@ -33,19 +33,25 @@
     <ClCompile Include="ascii_to_number.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="break-for.c">
+    <ClCompile Include="break_for.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="break-infinite-loop.c">
+    <ClCompile Include="break_infinite_loop.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="break-demo.c">
+    <ClCompile Include="break_demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="while-sum-break.c">
+    <ClCompile Include="while_sum_break.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="for-if-continue.c">
+    <ClCompile Include="for_if_continue.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="continue_demo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="goto_demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
