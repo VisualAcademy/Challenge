@@ -57,5 +57,8 @@
     <ClCompile Include="while_break.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="bit_and.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
