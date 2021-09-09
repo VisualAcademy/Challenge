@@ -66,5 +66,8 @@
     <ClCompile Include="power.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="array_student.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
