@@ -13,8 +13,8 @@ int main(void)
     for (int i = 0; i < 3; i++)
     {
         printf("%d번 학생 점수: ___\b\b\b", (i + 1));
-        gets_s(buffer, sizeof(buffer));
-        students[i] = atoi(buffer);
+        gets_s(buffer, sizeof(buffer)); // 사용자부터 점수 입력
+        students[i] = atoi(buffer); // 입력된 값을 정수로 변환
         total += students[i];
     }
 
