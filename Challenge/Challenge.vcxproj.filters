@@ -90,5 +90,8 @@
     <ClCompile Include="bubble_sort.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="pow_sqrt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
