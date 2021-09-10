@@ -87,5 +87,8 @@
     <ClCompile Include="struct_description.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="bubble_sort.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
