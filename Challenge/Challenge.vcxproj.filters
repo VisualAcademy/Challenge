@@ -96,5 +96,8 @@
     <ClCompile Include="variable_address.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="pointer_variable.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
