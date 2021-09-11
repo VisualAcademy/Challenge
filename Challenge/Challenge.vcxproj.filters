@@ -99,5 +99,8 @@
     <ClCompile Include="pointer_variable.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="string_copy.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
