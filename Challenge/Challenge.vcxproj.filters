@@ -111,5 +111,11 @@
     <ClCompile Include="hello_world.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="main_simple.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="brace_location.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
