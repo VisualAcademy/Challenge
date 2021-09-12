@@ -120,5 +120,8 @@
     <ClCompile Include="whitespace.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="casesensitive.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
