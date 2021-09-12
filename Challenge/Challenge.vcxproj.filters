@@ -108,5 +108,8 @@
     <ClCompile Include="timestable.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="hello_world.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
