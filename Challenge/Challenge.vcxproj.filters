@@ -132,5 +132,8 @@
     <ClCompile Include="enum_animal.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="enum_index.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
