@@ -123,5 +123,11 @@
     <ClCompile Include="casesensitive.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="storage_class.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="enumeration_demo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
