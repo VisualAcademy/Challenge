@@ -135,5 +135,8 @@
     <ClCompile Include="enum_index.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="enum_index_change.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
