@@ -123,7 +123,7 @@
     <ClCompile Include="casesensitive.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="storage_class.c">
+    <ClCompile Include="storage_class_1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="enumeration_demo.c">
@@ -136,6 +136,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="enum_index_change.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="storage_class_2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="storage_class_3.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
