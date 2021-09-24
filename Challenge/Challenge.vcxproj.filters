@@ -144,5 +144,8 @@
     <ClCompile Include="storage_class_3.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="only_multiples.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
