@@ -147,5 +147,8 @@
     <ClCompile Include="only_multiples.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="sring_reverse_english.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
