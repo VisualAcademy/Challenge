@@ -159,5 +159,8 @@
     <ClCompile Include="new_line.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="indent.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
