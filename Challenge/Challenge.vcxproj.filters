@@ -150,5 +150,8 @@
     <ClCompile Include="sring_reverse_english.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="empty_statement.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
