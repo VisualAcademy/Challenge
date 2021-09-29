@@ -165,5 +165,8 @@
     <ClCompile Include="comment.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="single_line_comment.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
