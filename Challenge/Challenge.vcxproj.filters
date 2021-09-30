@@ -180,5 +180,8 @@
     <ClCompile Include="output_demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="variable.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
