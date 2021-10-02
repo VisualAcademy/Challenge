@@ -192,5 +192,8 @@
     <ClCompile Include="variable_demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="variable_initialize.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
