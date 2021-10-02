@@ -183,5 +183,11 @@
     <ClCompile Include="variable.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="variable_note.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="garbage.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
