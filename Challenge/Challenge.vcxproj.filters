@@ -195,5 +195,8 @@
     <ClCompile Include="variable_initialize.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="integer_value.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
