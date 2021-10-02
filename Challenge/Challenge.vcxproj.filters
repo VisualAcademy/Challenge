@@ -201,5 +201,8 @@
     <ClCompile Include="variable_comma.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="variable_same_value.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
