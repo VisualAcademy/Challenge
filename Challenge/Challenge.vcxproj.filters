@@ -207,5 +207,8 @@
     <ClCompile Include="number_literal.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="integer_demo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
