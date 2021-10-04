@@ -213,5 +213,11 @@
     <ClCompile Include="type_def.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="floating_point.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="_.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
