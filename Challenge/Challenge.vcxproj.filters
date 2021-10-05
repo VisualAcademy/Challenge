@@ -219,5 +219,8 @@
     <ClCompile Include="_.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="float_demo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
