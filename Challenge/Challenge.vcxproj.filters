@@ -228,5 +228,8 @@
     <ClCompile Include="unsigned_integer_type.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="signed_integer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
