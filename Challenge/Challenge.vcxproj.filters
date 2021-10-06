@@ -222,5 +222,11 @@
     <ClCompile Include="float_demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="integer_type.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="unsigned_integer_type.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
