@@ -246,5 +246,8 @@
     <ClCompile Include="judge_variable.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="judge_string.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
