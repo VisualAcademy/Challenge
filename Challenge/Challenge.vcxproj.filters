@@ -231,5 +231,8 @@
     <ClCompile Include="signed_integer.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="character_demo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
