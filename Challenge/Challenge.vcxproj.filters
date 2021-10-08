@@ -249,5 +249,8 @@
     <ClCompile Include="judge_string.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="operator_description.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
