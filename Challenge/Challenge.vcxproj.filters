@@ -255,5 +255,8 @@
     <ClCompile Include="abs_api.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="div_mod.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
