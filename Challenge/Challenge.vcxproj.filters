@@ -258,5 +258,8 @@
     <ClCompile Include="div_mod.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ceil_floor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
