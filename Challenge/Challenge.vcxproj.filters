@@ -261,5 +261,8 @@
     <ClCompile Include="ceil_floor.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="modf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
