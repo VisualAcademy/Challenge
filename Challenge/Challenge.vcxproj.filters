@@ -267,5 +267,8 @@
     <ClCompile Include="character_escape_sequence.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="immutable.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
