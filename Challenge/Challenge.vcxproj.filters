@@ -264,5 +264,8 @@
     <ClCompile Include="modf.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="character_escape_sequence.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
