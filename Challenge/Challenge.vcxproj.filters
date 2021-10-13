@@ -270,5 +270,8 @@
     <ClCompile Include="immutable.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="const_double_string.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
