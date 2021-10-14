@@ -282,5 +282,8 @@
     <ClCompile Include="getchar_putchar.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="gets_puts.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
