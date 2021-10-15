@@ -288,5 +288,8 @@
     <ClCompile Include="unary_operator.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="address_operator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
