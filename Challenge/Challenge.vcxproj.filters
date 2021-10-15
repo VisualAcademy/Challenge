@@ -285,5 +285,8 @@
     <ClCompile Include="gets_puts.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="unary_operator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
