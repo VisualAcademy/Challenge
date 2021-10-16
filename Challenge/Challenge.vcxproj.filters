@@ -294,5 +294,8 @@
     <ClCompile Include="casting_operator.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="operator_subtract.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
