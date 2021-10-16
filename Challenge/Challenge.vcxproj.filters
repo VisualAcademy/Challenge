@@ -297,5 +297,8 @@
     <ClCompile Include="operator_subtract.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="operator_multiply.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
