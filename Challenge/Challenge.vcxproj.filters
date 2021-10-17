@@ -303,5 +303,8 @@
     <ClCompile Include="assignment_operator.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="swap_demo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
