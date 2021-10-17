@@ -339,5 +339,11 @@
     <ClCompile Include="or_operator.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="logical_or.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="logical_not.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
