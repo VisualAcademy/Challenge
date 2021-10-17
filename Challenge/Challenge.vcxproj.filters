@@ -354,5 +354,8 @@
     <ClCompile Include="switch_statement.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="switch_weather.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
