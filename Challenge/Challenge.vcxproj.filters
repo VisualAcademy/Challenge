@@ -330,5 +330,8 @@
     <ClCompile Include="postfix_operator.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="and_operator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
