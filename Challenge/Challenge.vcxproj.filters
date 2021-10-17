@@ -333,5 +333,11 @@
     <ClCompile Include="and_operator.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="logical_and.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="or_operator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
