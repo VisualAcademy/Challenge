@@ -321,5 +321,8 @@
     <ClCompile Include="increment_operator.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="decrement_operator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
