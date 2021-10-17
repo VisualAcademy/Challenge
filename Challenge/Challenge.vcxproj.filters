@@ -300,5 +300,8 @@
     <ClCompile Include="operator_multiply.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="assignment_operator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
