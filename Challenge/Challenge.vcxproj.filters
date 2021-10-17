@@ -309,5 +309,8 @@
     <ClCompile Include="increment_number.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="decrement_number.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
