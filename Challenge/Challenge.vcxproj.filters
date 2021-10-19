@@ -384,5 +384,8 @@
     <ClCompile Include="else.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="if_else.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
