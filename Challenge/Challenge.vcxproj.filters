@@ -387,5 +387,8 @@
     <ClCompile Include="if_else.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="greater_than_equal.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
