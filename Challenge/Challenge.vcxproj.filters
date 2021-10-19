@@ -372,5 +372,8 @@
     <ClCompile Include="if_not.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="if_nested.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
