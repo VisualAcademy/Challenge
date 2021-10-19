@@ -426,5 +426,8 @@
     <ClCompile Include="toupper_tolower.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="strcat_strncat.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
