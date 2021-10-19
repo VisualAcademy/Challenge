@@ -390,5 +390,8 @@
     <ClCompile Include="greater_than_equal.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="num_difference.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
