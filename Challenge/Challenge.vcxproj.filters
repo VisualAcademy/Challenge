@@ -405,5 +405,8 @@
     <ClCompile Include="if_else_if_else.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="positive_negative_zero.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
