@@ -423,5 +423,8 @@
     <ClCompile Include="ctype_demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="toupper_tolower.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
