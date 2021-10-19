@@ -378,5 +378,11 @@
     <ClCompile Include="if_and.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="else_note.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="else.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
