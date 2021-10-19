@@ -393,5 +393,8 @@
     <ClCompile Include="num_difference.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="char_test.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
