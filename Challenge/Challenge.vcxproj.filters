@@ -414,5 +414,8 @@
     <ClCompile Include="score_grade.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="if_else_all.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
