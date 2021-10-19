@@ -366,5 +366,8 @@
     <ClCompile Include="single_multiple.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="if_demo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
