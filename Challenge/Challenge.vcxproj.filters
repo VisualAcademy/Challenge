@@ -429,5 +429,8 @@
     <ClCompile Include="strcat_strncat.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="strcmp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
