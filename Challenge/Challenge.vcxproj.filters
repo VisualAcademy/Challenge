@@ -399,5 +399,8 @@
     <ClCompile Include="else_nested.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="if_else_score_grade.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
