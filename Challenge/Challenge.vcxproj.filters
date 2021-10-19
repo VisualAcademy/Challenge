@@ -369,5 +369,8 @@
     <ClCompile Include="if_demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="if_not.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
