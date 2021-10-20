@@ -432,5 +432,8 @@
     <ClCompile Include="strcmp.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="relational_operator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
