@@ -438,5 +438,8 @@
     <ClCompile Include="operator_relational.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="bit_or.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
