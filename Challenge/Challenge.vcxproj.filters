@@ -441,5 +441,8 @@
     <ClCompile Include="bit_or.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="while_description.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
