@@ -447,5 +447,8 @@
     <ClCompile Include="atoi_function.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="atof_function.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
