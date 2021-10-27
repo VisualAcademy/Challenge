@@ -456,5 +456,8 @@
     <ClCompile Include="for_description_up.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="for.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
