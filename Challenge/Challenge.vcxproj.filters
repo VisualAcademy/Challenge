@@ -471,5 +471,8 @@
     <ClCompile Include="sum100.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="for_demo_countdown.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
