@@ -450,5 +450,11 @@
     <ClCompile Include="atof_function.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="for_description.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="for_description_up.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
