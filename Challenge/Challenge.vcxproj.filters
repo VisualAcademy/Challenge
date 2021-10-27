@@ -468,5 +468,8 @@
     <ClCompile Include="for_sum_even.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="sum100.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
