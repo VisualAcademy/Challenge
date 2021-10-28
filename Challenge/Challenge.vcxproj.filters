@@ -477,5 +477,8 @@
     <ClCompile Include="for_even.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="for_demo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
