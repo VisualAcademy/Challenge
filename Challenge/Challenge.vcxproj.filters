@@ -483,5 +483,8 @@
     <ClCompile Include="for_triangle.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="infinite_loop.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
