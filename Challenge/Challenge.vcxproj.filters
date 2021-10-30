@@ -489,5 +489,8 @@
     <ClCompile Include="for_factorial.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="sum_algorithm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
