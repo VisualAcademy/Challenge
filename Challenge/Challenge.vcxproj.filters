@@ -492,5 +492,8 @@
     <ClCompile Include="sum_algorithm.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="bit_xor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
