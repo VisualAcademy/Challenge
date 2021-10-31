@@ -495,5 +495,8 @@
     <ClCompile Include="bit_xor.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="bit_not.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
