@@ -504,5 +504,8 @@
     <ClCompile Include="while_even.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="while_fibonacci.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
