@@ -510,5 +510,8 @@
     <ClCompile Include="while_demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="while_loop.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
