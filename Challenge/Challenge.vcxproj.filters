@@ -498,5 +498,8 @@
     <ClCompile Include="bit_not.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="while_sum.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
