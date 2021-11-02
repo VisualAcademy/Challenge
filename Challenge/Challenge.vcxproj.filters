@@ -525,5 +525,8 @@
     <ClCompile Include="do_while_demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="array_same_index.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
