@@ -519,5 +519,8 @@
     <ClCompile Include="do_while.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="do_while_sum.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
