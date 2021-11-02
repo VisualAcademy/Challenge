@@ -531,5 +531,8 @@
     <ClCompile Include="array_sum_average.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="array_three_description.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
