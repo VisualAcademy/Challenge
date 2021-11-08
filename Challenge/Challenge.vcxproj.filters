@@ -558,5 +558,8 @@
     <ClCompile Include="memory_allocation.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="parameter_out.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
