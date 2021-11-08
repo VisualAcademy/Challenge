@@ -1,3 +1,4 @@
+//[?] 포인터로 반환형 매개 변수 전달 방식 함수 만들기
 // parameter_out.c
 #include <stdio.h>
 
