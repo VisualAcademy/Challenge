@@ -567,5 +567,8 @@
     <ClCompile Include="variable_practice.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="global-variable-int.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
