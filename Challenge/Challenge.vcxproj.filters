@@ -576,5 +576,8 @@
     <ClCompile Include="pointer_variable_five.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="pointer_one_array.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
