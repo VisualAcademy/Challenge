@@ -7,16 +7,18 @@
 /// </summary>
 /// <param name="value">1, 2, 3, 4, ...</param>
 /// <returns>1st, 2nd, 3rd, 4th, ...</returns>
-char* get_ordinal(int value)
+char* get_ordinal(int data)
 {
 	char* ordinals[] = { "st", "nd", "rd", "th" };
 
-	value %= 100; // 0-100 사이의 값으로 표준화
+	data %= 100; // 0-100 사이의 값으로 표준화
 
-	if (3 < value && value < 21)
+	if (3 < data && data < 21)
+	{
 		return ordinals[3];
+	}
 
-	switch (value % 10)
+	switch (data % 10)
 	{
 	case 1:
 		return ordinals[0];
