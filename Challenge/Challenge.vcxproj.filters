@@ -591,5 +591,11 @@
     <ClCompile Include="exam-sum-average.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="judge_average.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_digit_number.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
