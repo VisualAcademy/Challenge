@@ -1,4 +1,4 @@
-// 입력받은 두 수의 합계와 평균 구하기 
+// 입력 받은 두 수의 합계와 평균 구하기 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
