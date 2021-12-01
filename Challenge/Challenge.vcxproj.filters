@@ -588,5 +588,8 @@
     <ClCompile Include="get_ordinal.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="exam-sum-average.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
