@@ -597,5 +597,8 @@
     <ClCompile Include="judge_digit_number.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="valuetype-referencetype.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
