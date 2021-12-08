@@ -6,4 +6,6 @@ int main(void)
     // C 언어에서 문자열은 큰 따옴표로 묶음
     // "C Language", "Hello, World"
     printf("%s, %s\n", "C Language", "Hello, World!"); 
+
+    return 0;
 }
