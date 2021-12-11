@@ -618,5 +618,8 @@
     <ClCompile Include="integer_overflow.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="float_print.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
