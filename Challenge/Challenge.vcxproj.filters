@@ -621,5 +621,8 @@
     <ClCompile Include="float_print.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="char_array_string.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
