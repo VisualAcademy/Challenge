@@ -7,7 +7,7 @@ enum Direction
 {
     Top,	    // 0
     Bottom,	    // 1
-    Left = 10,  // 10
+    Left = 10,  // 10 => 인덱스 값을 새로운 시작 값으로 초기화 
     Right	    // 11
 };
 

@@ -627,5 +627,8 @@
     <ClCompile Include="char_array_strcpy.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="enum_direction.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
