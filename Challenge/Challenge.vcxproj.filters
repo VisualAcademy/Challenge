@@ -630,5 +630,11 @@
     <ClCompile Include="enum_direction.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="string_toupper.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="string_tolower.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
