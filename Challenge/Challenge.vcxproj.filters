@@ -639,5 +639,8 @@
     <ClCompile Include="text_center.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="typedef_keyword.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
