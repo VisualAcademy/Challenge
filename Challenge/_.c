@@ -1,14 +1,15 @@
-// typedef 키워드 사용하기 
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-// typedef 키워드로 double 키워드를 number 키워드로 사용하도록 설정 
-typedef double number; // double을 number 이름으로도 사용
-
 int main(void)
-{    
-    number num1 = 1234.56; // double num1 = 1234.56; => 동일한 코드
+{
+    int age = 0;
+    int _ = scanf("%d", &age);
 
-    printf("%.2lf\n", num1); // 1234.56
+    if (age < 14)
+    {
+        printf("만 14세 미만 어린이는 부모님의 동의가 필요합니다.\n");
+    }
 
     return 0;
 }
