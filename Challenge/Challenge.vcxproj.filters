@@ -642,5 +642,11 @@
     <ClCompile Include="typedef_keyword.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="if_exam.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="if_practice.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
