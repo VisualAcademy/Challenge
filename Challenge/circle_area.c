@@ -8,7 +8,7 @@ int main(void)
     int area = 0; // 원의 넓이 저장할 변수
     int _ = 0; // 버림(Discards)
 
-    printf("원의 반지름: ");
+    printf("반지름 입력: ");
     _ = scanf("%d", &radius);
 
     area = PI * radius * radius;

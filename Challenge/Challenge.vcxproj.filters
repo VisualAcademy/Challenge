@@ -648,5 +648,8 @@
     <ClCompile Include="if_practice.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="circle_area.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
