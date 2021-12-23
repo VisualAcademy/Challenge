@@ -1,3 +1,4 @@
+// rectangle_area.c
 // C 언어 코드 샘플 - 사각형의 넓이 구하기 - 사각형의 넓이는 밑변 곱하기 높이
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
@@ -18,7 +19,7 @@ int main(void)
     area = width * height;
 
     // 출력 
-    printf("사각형의 넓이: %.2lf\n", area); 
+    printf("사각형의 넓이: %.2lf\n", area);
 
     return 0;
 }

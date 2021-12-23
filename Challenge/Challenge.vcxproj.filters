@@ -651,5 +651,8 @@
     <ClCompile Include="circle_area.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="rectangle_area.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
