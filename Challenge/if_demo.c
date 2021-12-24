@@ -1,4 +1,4 @@
-// if 문을 비교 연산자와 함께 사용하기
+// if 문을 관계형 연산자와 함께 사용하기
 #include <stdio.h>
 
 int main(void)
