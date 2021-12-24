@@ -654,5 +654,8 @@
     <ClCompile Include="rectangle_area.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="compare_two_numbers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

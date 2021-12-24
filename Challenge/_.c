@@ -1,24 +1,28 @@
-// C 언어 코드 샘플 - 사각형의 넓이 구하기 - 사각형의 넓이는 밑변 곱하기 높이
+// C 언어 코드 샘플 - 두 수의 크기 비교 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main(void)
 {
-    // 변수 선언 및 초기화 
-    double width = 0.0; // 밑변
-    double height = 0.0;  // 높이
-    double area = 0.0; // 넓이
-    int _ = 0;  // 버림(Discards)
+    int num1 = 0;
+    int num2 = 0; 
+    int _ = 0; // 버림(Discards)
 
-    // 사용자로부터 데이터 입력
-    printf("밑변: "); _ = scanf("%lf", &width);
-    printf("높이: "); _ = scanf("%lf", &height);
+    printf("첫 번째 수: "); _ = scanf("%d", &num1);
+    printf("두 번째 수: "); _ = scanf("%d", &num2);
 
-    // 처리
-    area = width * height;
-
-    // 출력 
-    printf("사각형의 넓이: %.2lf\n", area); 
+    if (num1 > num2)
+    {
+        printf("%d이(가) %d보다 큽니다.\n", num1, num2);
+    }
+    if (num1 < num2)
+    {
+        printf("%d이(가) %d보다 작습니다.\n", num1, num2);
+    }
+    if (num1 == num2)
+    {
+        printf("%d이(가) %d와 같습니다.\n", num1, num2);
+    }
 
     return 0;
 }
