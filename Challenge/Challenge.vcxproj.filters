@@ -657,5 +657,11 @@
     <ClCompile Include="compare_two_numbers.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="static_shared.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="auto_scope.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
