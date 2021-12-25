@@ -20,7 +20,7 @@ int main(void)
 void func1(void)
 {
     auto int num = 20; // 지역 변수 num
-    printf("[1] fun1.num -> %d\n", num); // 20
+    printf("[1] func1.num -> %d\n", num); // 20
 }
 
 void func2(void)
