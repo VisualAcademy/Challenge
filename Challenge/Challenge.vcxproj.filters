@@ -666,5 +666,8 @@
     <ClCompile Include="get_sum_two_number.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="array_input.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
