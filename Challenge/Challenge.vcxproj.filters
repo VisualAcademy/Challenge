@@ -669,5 +669,8 @@
     <ClCompile Include="array_input.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="output.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
