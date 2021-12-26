@@ -22,7 +22,7 @@ int main(void)
     }
 
     //[3] 출력 
-    printf("%d명의 학생의 총점: %d\n", N, tot);
+    printf("%d명의 총점: %d\n", N, tot);
 
     return 0;
 }
