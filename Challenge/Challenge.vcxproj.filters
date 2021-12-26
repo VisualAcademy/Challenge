@@ -663,5 +663,8 @@
     <ClCompile Include="auto_scope.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="get_sum_two_number.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
