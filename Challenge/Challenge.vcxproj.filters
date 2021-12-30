@@ -675,5 +675,8 @@
     <ClCompile Include="format_specifier.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="thousands_separator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
