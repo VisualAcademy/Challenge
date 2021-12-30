@@ -672,5 +672,8 @@
     <ClCompile Include="output.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="format_specifier.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
