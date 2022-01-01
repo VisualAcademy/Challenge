@@ -210,19 +210,10 @@
     <ClCompile Include="number_literal.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="type_def.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="floating_point.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="_.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="float_demo.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="integer_type.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="unsigned_integer_type.c">
@@ -609,15 +600,6 @@
     <ClCompile Include="calculation.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="integer_size.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="integer_overflow.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="float_print.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="char_array_string.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -679,6 +661,24 @@
       <Filter>Source Files\06_Number</Filter>
     </ClCompile>
     <ClCompile Include="signed_integer.c">
+      <Filter>Source Files\06_Number</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_type.c">
+      <Filter>Source Files\06_Number</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_size.c">
+      <Filter>Source Files\06_Number</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_overflow.c">
+      <Filter>Source Files\06_Number</Filter>
+    </ClCompile>
+    <ClCompile Include="floating_point.c">
+      <Filter>Source Files\06_Number</Filter>
+    </ClCompile>
+    <ClCompile Include="float_print.c">
+      <Filter>Source Files\06_Number</Filter>
+    </ClCompile>
+    <ClCompile Include="type_def.c">
       <Filter>Source Files\06_Number</Filter>
     </ClCompile>
   </ItemGroup>

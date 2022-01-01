@@ -9,7 +9,7 @@ int main(void)
     long l = 2147483647; // 32비트 부호 있는 정수형 변수 선언 및 할당
     long long ll = 9223372036854775807; // 64비트 부호 있는 정수형 변수 선언 및 할당
 
-    //[2] 자리 표시자: short(%d), int(%d), long(%ld), long long(%lld) 
+    //[2] 서식 지정자(자리 표시자): short(%d), int(%d), long(%ld), long long(%lld) 
     printf("short: %d\n", s); // short: 32767
     printf("int: %d\n", i); // int: 2147483647
     printf("long: %ld\n", l); // long: 2147483647
