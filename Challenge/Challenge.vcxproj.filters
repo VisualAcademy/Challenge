@@ -228,9 +228,6 @@
     <ClCompile Include="unsigned_integer_type.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="signed_integer.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="character_demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -679,6 +676,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="integer_demo.c">
+      <Filter>Source Files\06_Number</Filter>
+    </ClCompile>
+    <ClCompile Include="signed_integer.c">
       <Filter>Source Files\06_Number</Filter>
     </ClCompile>
   </ItemGroup>
