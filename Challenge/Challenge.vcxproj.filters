@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\06_Number">
+      <UniqueIdentifier>{baeca320-b8b4-4dcf-9cb3-18fb2f249027}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="macro_constant.c">
@@ -205,9 +208,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="number_literal.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="integer_demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="type_def.c">
@@ -677,6 +677,9 @@
     </ClCompile>
     <ClCompile Include="thousands_separator.c">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_demo.c">
+      <Filter>Source Files\06_Number</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
