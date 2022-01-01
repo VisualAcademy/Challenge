@@ -16,6 +16,9 @@
     <Filter Include="Source Files\06_Number">
       <UniqueIdentifier>{baeca320-b8b4-4dcf-9cb3-18fb2f249027}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\07_Other">
+      <UniqueIdentifier>{5e3a0701-df55-405a-9e99-811888d187cf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="macro_constant.c">
@@ -259,12 +262,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="const_double_string.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="bool_demo.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="boolean_demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="getchar_putchar.c">
@@ -680,6 +677,12 @@
     </ClCompile>
     <ClCompile Include="type_def.c">
       <Filter>Source Files\06_Number</Filter>
+    </ClCompile>
+    <ClCompile Include="bool_demo.c">
+      <Filter>Source Files\07_Other</Filter>
+    </ClCompile>
+    <ClCompile Include="boolean_demo.c">
+      <Filter>Source Files\07_Other</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
