@@ -684,5 +684,11 @@
     <ClCompile Include="boolean_demo.c">
       <Filter>Source Files\07_Other</Filter>
     </ClCompile>
+    <ClCompile Include="output_oneline.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="format_string.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
