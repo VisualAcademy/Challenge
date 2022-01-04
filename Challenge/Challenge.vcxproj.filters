@@ -714,5 +714,8 @@
     <ClCompile Include="operator_arithmetic.c">
       <Filter>Source Files\09_Operator</Filter>
     </ClCompile>
+    <ClCompile Include="scanf_arithmetic.c">
+      <Filter>Source Files\09_Operator</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
