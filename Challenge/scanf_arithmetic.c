@@ -1,5 +1,5 @@
 // 2개의 숫자를 콘솔로부터 입력받은 후 산술 연산 값 출력하기
-#define _CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS // scanf() 보안 경고에 따른 컴파일 에러 방지
 #include <stdio.h>
 
 int main(void)
