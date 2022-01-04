@@ -705,5 +705,8 @@
     <ClCompile Include="remainder.c">
       <Filter>Source Files\09_Operator</Filter>
     </ClCompile>
+    <ClCompile Include="operator_remainder.c">
+      <Filter>Source Files\09_Operator</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
