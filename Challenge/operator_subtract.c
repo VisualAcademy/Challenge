@@ -7,7 +7,7 @@ int main(void)
     float j = 3.14f;
     float k = i - j; // k = 3.14 - 3.14
 
-    printf("%.2f\n", k); // 0.00
+    printf("%f\n", k); // 0.000000
 
     return 0;
 }

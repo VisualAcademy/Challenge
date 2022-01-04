@@ -19,6 +19,9 @@
     <Filter Include="Source Files\07_Other">
       <UniqueIdentifier>{5e3a0701-df55-405a-9e99-811888d187cf}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\09_Operator">
+      <UniqueIdentifier>{aece1fa3-0673-4254-b9bb-d9613ae08da9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="macro_constant.c">
@@ -240,9 +243,6 @@
     <ClCompile Include="judge_string.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="operator_description.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="abs_api.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -268,21 +268,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="gets_puts.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="unary_operator.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="address_operator.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="casting_operator.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="operator_subtract.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="operator_multiply.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="assignment_operator.c">
@@ -689,6 +674,33 @@
     </ClCompile>
     <ClCompile Include="format_string.c">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="operator_description.c">
+      <Filter>Source Files\09_Operator</Filter>
+    </ClCompile>
+    <ClCompile Include="unary_operator.c">
+      <Filter>Source Files\09_Operator</Filter>
+    </ClCompile>
+    <ClCompile Include="address_operator.c">
+      <Filter>Source Files\09_Operator</Filter>
+    </ClCompile>
+    <ClCompile Include="casting_operator.c">
+      <Filter>Source Files\09_Operator</Filter>
+    </ClCompile>
+    <ClCompile Include="plus_operator.c">
+      <Filter>Source Files\09_Operator</Filter>
+    </ClCompile>
+    <ClCompile Include="operator_add.c">
+      <Filter>Source Files\09_Operator</Filter>
+    </ClCompile>
+    <ClCompile Include="operator_subtract.c">
+      <Filter>Source Files\09_Operator</Filter>
+    </ClCompile>
+    <ClCompile Include="operator_multiply.c">
+      <Filter>Source Files\09_Operator</Filter>
+    </ClCompile>
+    <ClCompile Include="operator_divide.c">
+      <Filter>Source Files\09_Operator</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
