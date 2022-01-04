@@ -708,5 +708,11 @@
     <ClCompile Include="operator_remainder.c">
       <Filter>Source Files\09_Operator</Filter>
     </ClCompile>
+    <ClCompile Include="percent_operator.c">
+      <Filter>Source Files\09_Operator</Filter>
+    </ClCompile>
+    <ClCompile Include="operator_arithmetic.c">
+      <Filter>Source Files\09_Operator</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
