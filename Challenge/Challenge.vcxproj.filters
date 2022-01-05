@@ -22,6 +22,9 @@
     <Filter Include="Source Files\09_Operator">
       <UniqueIdentifier>{aece1fa3-0673-4254-b9bb-d9613ae08da9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\05_Variable">
+      <UniqueIdentifier>{79de9f95-450a-4fa9-8bd2-b3e5e87d31ee}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="macro_constant.c">
@@ -100,9 +103,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="pow_sqrt.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="variable_address.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="pointer_variable.c">
@@ -189,28 +189,10 @@
     <ClCompile Include="output_demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="variable.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="variable_note.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="garbage.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="variable_demo.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="variable_initialize.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="integer_value.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="variable_comma.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="variable_same_value.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="number_literal.c">
@@ -534,9 +516,6 @@
     <ClCompile Include="file_open_demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="variable_practice.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="global-variable-int.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -716,6 +695,33 @@
     </ClCompile>
     <ClCompile Include="scanf_arithmetic.c">
       <Filter>Source Files\09_Operator</Filter>
+    </ClCompile>
+    <ClCompile Include="variable.c">
+      <Filter>Source Files\05_Variable</Filter>
+    </ClCompile>
+    <ClCompile Include="variable_address.c">
+      <Filter>Source Files\05_Variable</Filter>
+    </ClCompile>
+    <ClCompile Include="variable_comma.c">
+      <Filter>Source Files\05_Variable</Filter>
+    </ClCompile>
+    <ClCompile Include="variable_demo.c">
+      <Filter>Source Files\05_Variable</Filter>
+    </ClCompile>
+    <ClCompile Include="variable_initialize.c">
+      <Filter>Source Files\05_Variable</Filter>
+    </ClCompile>
+    <ClCompile Include="variable_note.c">
+      <Filter>Source Files\05_Variable</Filter>
+    </ClCompile>
+    <ClCompile Include="variable_practice.c">
+      <Filter>Source Files\05_Variable</Filter>
+    </ClCompile>
+    <ClCompile Include="variable_same_value.c">
+      <Filter>Source Files\05_Variable</Filter>
+    </ClCompile>
+    <ClCompile Include="variable_pseudo.c">
+      <Filter>Source Files\05_Variable</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
