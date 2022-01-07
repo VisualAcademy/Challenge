@@ -207,9 +207,6 @@
     <ClCompile Include="unsigned_integer_type.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="character_demo.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="string_demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -722,6 +719,9 @@
     </ClCompile>
     <ClCompile Include="variable_pseudo.c">
       <Filter>Source Files\05_Variable</Filter>
+    </ClCompile>
+    <ClCompile Include="character_demo.c">
+      <Filter>Source Files\07_Other</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
