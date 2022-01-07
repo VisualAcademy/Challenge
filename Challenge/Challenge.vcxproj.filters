@@ -25,6 +25,9 @@
     <Filter Include="Source Files\05_Variable">
       <UniqueIdentifier>{79de9f95-450a-4fa9-8bd2-b3e5e87d31ee}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\08_IO">
+      <UniqueIdentifier>{c8dd5ae6-90ad-4be2-b656-4b15b10efca2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="macro_constant.c">
@@ -722,6 +725,12 @@
     </ClCompile>
     <ClCompile Include="character_demo.c">
       <Filter>Source Files\07_Other</Filter>
+    </ClCompile>
+    <ClCompile Include="input_integer.c">
+      <Filter>Source Files\08_IO</Filter>
+    </ClCompile>
+    <ClCompile Include="input_two_integer.c">
+      <Filter>Source Files\08_IO</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
