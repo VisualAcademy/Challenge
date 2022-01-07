@@ -1,4 +1,4 @@
-// char 키워드: 문자 데이터 형식 변수를 선언할 때 사용 
+// char 키워드: 문자 데이터 타입 변수를 선언할 때 사용 
 #include <stdio.h>
 
 int main(void)
