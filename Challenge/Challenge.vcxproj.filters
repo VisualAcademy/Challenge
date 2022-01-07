@@ -732,5 +732,8 @@
     <ClCompile Include="input_two_integer.c">
       <Filter>Source Files\08_IO</Filter>
     </ClCompile>
+    <ClCompile Include="input_unsigned_integer.c">
+      <Filter>Source Files\08_IO</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
