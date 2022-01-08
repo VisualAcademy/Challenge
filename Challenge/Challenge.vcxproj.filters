@@ -28,6 +28,9 @@
     <Filter Include="Source Files\08_IO">
       <UniqueIdentifier>{c8dd5ae6-90ad-4be2-b656-4b15b10efca2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\10_AssignmentIncrement">
+      <UniqueIdentifier>{5d0e5124-107b-471e-ac31-27020378cde5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="macro_constant.c">
@@ -250,36 +253,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="gets_puts.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="assignment_operator.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="swap_demo.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="increment_number.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="decrement_number.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="shortcut_operator.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="shortcut_operator_demo.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="increment_operator.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="decrement_operator.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="prefix_operator.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="postfix_operator.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="and_operator.c">
@@ -737,6 +710,36 @@
     </ClCompile>
     <ClCompile Include="scanf_multi_line.c">
       <Filter>Source Files\08_IO</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment_operator.c">
+      <Filter>Source Files\10_AssignmentIncrement</Filter>
+    </ClCompile>
+    <ClCompile Include="swap_demo.c">
+      <Filter>Source Files\10_AssignmentIncrement</Filter>
+    </ClCompile>
+    <ClCompile Include="increment_number.c">
+      <Filter>Source Files\10_AssignmentIncrement</Filter>
+    </ClCompile>
+    <ClCompile Include="increment_operator.c">
+      <Filter>Source Files\10_AssignmentIncrement</Filter>
+    </ClCompile>
+    <ClCompile Include="decrement_operator.c">
+      <Filter>Source Files\10_AssignmentIncrement</Filter>
+    </ClCompile>
+    <ClCompile Include="decrement_number.c">
+      <Filter>Source Files\10_AssignmentIncrement</Filter>
+    </ClCompile>
+    <ClCompile Include="shortcut_operator.c">
+      <Filter>Source Files\10_AssignmentIncrement</Filter>
+    </ClCompile>
+    <ClCompile Include="shortcut_operator_demo.c">
+      <Filter>Source Files\10_AssignmentIncrement</Filter>
+    </ClCompile>
+    <ClCompile Include="prefix_operator.c">
+      <Filter>Source Files\10_AssignmentIncrement</Filter>
+    </ClCompile>
+    <ClCompile Include="postfix_operator.c">
+      <Filter>Source Files\10_AssignmentIncrement</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
