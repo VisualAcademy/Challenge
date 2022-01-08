@@ -10,9 +10,9 @@ int main(void)
     int _;
 
     printf("입력\n----\n");
-    printf("이름: "); _ = scanf("%s", name); // 서식 지정자 앞에 공백 하나 추가 
-    printf("별명: "); _ = scanf("%s", nick);
-    printf("나이: "); _ = scanf("%d", &age);
+    printf("이름: "); _ = scanf(" %s", name); // 서식 지정자 앞에 공백 하나 추가 
+    printf("나이: "); _ = scanf(" %d", &age);
+    printf("별명: "); _ = scanf(" %s", nick);
 
     printf("\n출력\n----\n");
     printf("이름: %s\n", name);
