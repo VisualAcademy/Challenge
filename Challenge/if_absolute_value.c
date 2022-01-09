@@ -12,14 +12,14 @@ int main(void)
     //[1] 입력
     printf("정수 하나를 입력하세요: "); _ = scanf("%d", &num);
 
-    //[2] 처리: 절댓값 구하기 
+    //[2] 처리: 절댓값(Absolute Value) 구하기 
     if (num < 0)
     {
-        abs = -num; 
+        abs = -num;
     }
     else
     {
-        abs = num; 
+        abs = num;
     }
 
     //[3] 출력 

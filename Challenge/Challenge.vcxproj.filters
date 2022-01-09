@@ -34,6 +34,9 @@
     <Filter Include="Source Files\11-relational-logical">
       <UniqueIdentifier>{c1ce226e-b4ee-483e-b6a9-5131636b2e48}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\13_IfElse">
+      <UniqueIdentifier>{f64e237b-ad00-473a-abc1-f2cec7ceead4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="macro_constant.c">
@@ -743,6 +746,9 @@
     </ClCompile>
     <ClCompile Include="or_operator.c">
       <Filter>Source Files\11-relational-logical</Filter>
+    </ClCompile>
+    <ClCompile Include="if_absolute_value.c">
+      <Filter>Source Files\13_IfElse</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
