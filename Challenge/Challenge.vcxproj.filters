@@ -31,6 +31,9 @@
     <Filter Include="Source Files\10_AssignmentIncrement">
       <UniqueIdentifier>{5d0e5124-107b-471e-ac31-27020378cde5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\11-relational-logical">
+      <UniqueIdentifier>{c1ce226e-b4ee-483e-b6a9-5131636b2e48}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="macro_constant.c">
@@ -255,21 +258,6 @@
     <ClCompile Include="gets_puts.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="and_operator.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="logical_and.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="or_operator.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="logical_or.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="logical_not.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="switch_expression.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -355,12 +343,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="strcmp.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="relational_operator.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="operator_relational.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="bit_or.c">
@@ -740,6 +722,27 @@
     </ClCompile>
     <ClCompile Include="postfix_operator.c">
       <Filter>Source Files\10_AssignmentIncrement</Filter>
+    </ClCompile>
+    <ClCompile Include="relational_operator.c">
+      <Filter>Source Files\11-relational-logical</Filter>
+    </ClCompile>
+    <ClCompile Include="operator_relational.c">
+      <Filter>Source Files\11-relational-logical</Filter>
+    </ClCompile>
+    <ClCompile Include="and_operator.c">
+      <Filter>Source Files\11-relational-logical</Filter>
+    </ClCompile>
+    <ClCompile Include="logical_or.c">
+      <Filter>Source Files\11-relational-logical</Filter>
+    </ClCompile>
+    <ClCompile Include="logical_and.c">
+      <Filter>Source Files\11-relational-logical</Filter>
+    </ClCompile>
+    <ClCompile Include="logical_not.c">
+      <Filter>Source Files\11-relational-logical</Filter>
+    </ClCompile>
+    <ClCompile Include="or_operator.c">
+      <Filter>Source Files\11-relational-logical</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

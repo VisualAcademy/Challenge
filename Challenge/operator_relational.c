@@ -7,8 +7,8 @@ int main(void)
     int x = 3;
     int y = 5;
 
-    printf("%d\n", x == y); // false(0)
-    printf("%d\n", x != y); // true(1)
+    printf("%d\n", x == y); // 0 : false
+    printf("%d\n", x != y); // 1 : true
     printf("%d\n", x > y); // 0
     printf("%d\n", x >= y); // 0
     printf("%d\n", x < y); // 1
