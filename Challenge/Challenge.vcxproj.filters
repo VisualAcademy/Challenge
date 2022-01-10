@@ -543,9 +543,6 @@
     <ClCompile Include="circle_area.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="rectangle_area.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="compare_two_numbers.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -763,6 +760,15 @@
       <Filter>Source Files\08_IO</Filter>
     </ClCompile>
     <ClCompile Include="gets_puts.c">
+      <Filter>Source Files\08_IO</Filter>
+    </ClCompile>
+    <ClCompile Include="char_to_int.c">
+      <Filter>Source Files\08_IO</Filter>
+    </ClCompile>
+    <ClCompile Include="get_number.c">
+      <Filter>Source Files\08_IO</Filter>
+    </ClCompile>
+    <ClCompile Include="rectangle_area.c">
       <Filter>Source Files\08_IO</Filter>
     </ClCompile>
   </ItemGroup>

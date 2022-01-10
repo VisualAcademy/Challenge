@@ -7,9 +7,9 @@ int main(void)
 {
     // 변수 선언 및 초기화 
     double width = 0.0; // 밑변
-    double height = 0.0;  // 높이
+    double height = 0.0; // 높이
     double area = 0.0; // 넓이
-    int _ = 0;  // 버림(Discards)
+    int _ = 0; // 버림(Discards)
 
     // 사용자로부터 데이터 입력
     printf("밑변: "); _ = scanf("%lf", &width);
