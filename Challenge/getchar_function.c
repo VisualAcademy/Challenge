@@ -1,3 +1,4 @@
+// getchar_function.c
 #include <stdio.h>
 
 int main(void)

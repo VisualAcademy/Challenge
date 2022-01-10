@@ -9,7 +9,6 @@ int main(void)
 
     //[2] 표준 출력으로 문자 하나 출력: putchar()
     putchar(c);
-
     putchar('\n');
 
     return 0;

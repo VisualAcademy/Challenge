@@ -255,9 +255,6 @@
     <ClCompile Include="const_double_string.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="getchar_putchar.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="gets_puts.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -754,6 +751,12 @@
       <Filter>Source Files\08_IO</Filter>
     </ClCompile>
     <ClCompile Include="input_character.c">
+      <Filter>Source Files\08_IO</Filter>
+    </ClCompile>
+    <ClCompile Include="getchar_putchar.c">
+      <Filter>Source Files\08_IO</Filter>
+    </ClCompile>
+    <ClCompile Include="getchar_function.c">
       <Filter>Source Files\08_IO</Filter>
     </ClCompile>
   </ItemGroup>
