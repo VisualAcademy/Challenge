@@ -3,13 +3,13 @@
 
 int main(void)
 {
-    char buffer[80] = { NULL };
+    char buffer[80] = { NULL }; // 문자열 저장할 공간 마련
 
     //[1] 표준 입력으로부터 한 줄 입력받기: gets()
-    gets(buffer); 
+    gets(buffer);
 
     //[2] 표준 출력으로 문자열 출력: puts()
-    puts(buffer); 
+    puts(buffer);
 
     return 0;
 }

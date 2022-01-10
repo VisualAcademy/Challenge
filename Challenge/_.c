@@ -1,15 +1,15 @@
-// getchar_demo.c
-// getchar() 함수: 키보드로부터 하나의 문자 입력
-#include <stdio.h> // getchar()
+//[?] 한 줄의 문자열을 입력받고 출력하는 함수: gets(), puts() 
+#include <stdio.h>
 
-int main()
+int main(void)
 {
-    char blood_type;
+    char buffer[80] = { NULL }; // 문자열 저장할 공간 마련
 
-    printf("당신의 혈액형은? _\b");
-    blood_type = getchar();
+    //[1] 표준 입력으로부터 한 줄 입력받기: gets()
+    gets(buffer);
 
-    printf("%c형입니다.\n", blood_type);
+    //[2] 표준 출력으로 문자열 출력: puts()
+    puts(buffer);
 
     return 0;
 }
