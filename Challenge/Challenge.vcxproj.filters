@@ -750,5 +750,11 @@
     <ClCompile Include="if_absolute_value.c">
       <Filter>Source Files\13_IfElse</Filter>
     </ClCompile>
+    <ClCompile Include="input_name.c">
+      <Filter>Source Files\08_IO</Filter>
+    </ClCompile>
+    <ClCompile Include="input_character.c">
+      <Filter>Source Files\08_IO</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
