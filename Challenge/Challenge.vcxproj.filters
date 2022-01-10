@@ -762,5 +762,8 @@
     <ClCompile Include="getch_function.c">
       <Filter>Source Files\08_IO</Filter>
     </ClCompile>
+    <ClCompile Include="getchar_demo.c">
+      <Filter>Source Files\08_IO</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
