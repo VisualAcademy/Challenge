@@ -216,9 +216,6 @@
     <ClCompile Include="float_demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="unsigned_integer_type.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="string_demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -770,6 +767,18 @@
     </ClCompile>
     <ClCompile Include="rectangle_area.c">
       <Filter>Source Files\08_IO</Filter>
+    </ClCompile>
+    <ClCompile Include="integer.c">
+      <Filter>Source Files\06_Number</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_type_docs.c">
+      <Filter>Source Files\06_Number</Filter>
+    </ClCompile>
+    <ClCompile Include="unsigned_integer_type.c">
+      <Filter>Source Files\06_Number</Filter>
+    </ClCompile>
+    <ClCompile Include="unsigned_integer_type_docs.c">
+      <Filter>Source Files\06_Number</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
