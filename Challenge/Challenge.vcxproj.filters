@@ -37,6 +37,60 @@
     <Filter Include="Source Files\13_IfElse">
       <UniqueIdentifier>{f64e237b-ad00-473a-abc1-f2cec7ceead4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\12_BitShiftConditional">
+      <UniqueIdentifier>{1dc5ffc1-94d5-48e5-b32e-7f41de6505e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\14_Switch">
+      <UniqueIdentifier>{6a9e8e5b-4012-49e0-b7d2-041240f5e93b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\15_For">
+      <UniqueIdentifier>{5ef216ee-97c4-409b-b8ce-6b7ca6e57f7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\16_WhileDoForEach">
+      <UniqueIdentifier>{e6c76198-ccd9-4cda-9d97-d42281b38006}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\17_BreakContinueGoto">
+      <UniqueIdentifier>{4252bdce-2e68-4da7-9145-dbaebc7cc1e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\18_Array">
+      <UniqueIdentifier>{b34957b6-163d-41f2-a1b0-43e36251e6fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\19_Function">
+      <UniqueIdentifier>{e5001a86-2183-4da4-b89d-63a2f0f918de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\20_Interactive">
+      <UniqueIdentifier>{fc35a5a7-5921-4a71-bf46-9485617b4baf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\21_API">
+      <UniqueIdentifier>{edf87186-238a-490d-a2fc-e7405b5ac328}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\22_Struct">
+      <UniqueIdentifier>{5efa1c96-6f73-4aa6-bd01-e4b9ab6a3462}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\23_Enum">
+      <UniqueIdentifier>{80839344-c33b-40b2-b231-729e235bda0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\24_Class">
+      <UniqueIdentifier>{5aac3f4b-b535-4b17-a7ba-9186954b2500}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\25_String">
+      <UniqueIdentifier>{1935fcc0-d32e-44dc-8ea8-f14f0ad2aab8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\26_Exception">
+      <UniqueIdentifier>{0ed32ec8-7b29-4977-8d47-74c8ce600ad5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\27_Collection">
+      <UniqueIdentifier>{3fe89b45-5f03-44d6-afb8-d324c2574397}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\29_Null">
+      <UniqueIdentifier>{7bce1430-9aad-4bcb-8ce6-a3e3e02ae076}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\31_Algorithms">
+      <UniqueIdentifier>{ef2d5f4e-f175-469f-af32-bf7e7d86d13d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\58_IO">
+      <UniqueIdentifier>{511b3b06-95ad-486a-b480-7e430f705bdd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="macro_constant.c">
@@ -79,9 +133,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="while_break.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="bit_and.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="union_demo.c">
@@ -339,9 +390,6 @@
     <ClCompile Include="strcmp.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="bit_or.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="while_description.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -391,12 +439,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="sum_algorithm.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="bit_xor.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="bit_not.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="while_sum.c">
@@ -779,6 +821,18 @@
     </ClCompile>
     <ClCompile Include="unsigned_integer_type_docs.c">
       <Filter>Source Files\06_Number</Filter>
+    </ClCompile>
+    <ClCompile Include="bit_and.c">
+      <Filter>Source Files\12_BitShiftConditional</Filter>
+    </ClCompile>
+    <ClCompile Include="bit_not.c">
+      <Filter>Source Files\12_BitShiftConditional</Filter>
+    </ClCompile>
+    <ClCompile Include="bit_or.c">
+      <Filter>Source Files\12_BitShiftConditional</Filter>
+    </ClCompile>
+    <ClCompile Include="bit_xor.c">
+      <Filter>Source Files\12_BitShiftConditional</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
