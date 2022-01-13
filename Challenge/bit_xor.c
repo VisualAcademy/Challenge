@@ -3,8 +3,8 @@
 
 int main(void)
 {
-    int x = 0b1010; // 10
-    int y = 0b1100; // 12
+    int x = 0b1010; // 10진수: 10
+    int y = 0b1100; // 10진수: 12
 
     // x를 십진수로 표현
     printf("%d\n", x); // 10

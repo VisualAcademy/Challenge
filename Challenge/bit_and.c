@@ -6,14 +6,14 @@ int main(void)
     int x = 0b1010; // 10진수: 10
     int y = 0b1100; // 10진수: 12
 
-    // x를 이진수로 표현 -> 십진수로 표현
-    printf("%d\n", x);
+    // x를 10진수로 표현
+    printf("%d\n", x); // 10
 
-    // y를 이진수로 표현 -> 십진수로 표현
-    printf("%d\n", y);
+    // y를 10진수로 표현
+    printf("%d\n", y); // 12
 
-    // x AND y를 이진수로 표현 -> 십진수로 2칸 잡고 표현 
-    printf("%d\n", x & y);
+    // x AND y를 10진수로 표현 
+    printf("%d\n", x & y); // 8 
 
     return 0;
 }
