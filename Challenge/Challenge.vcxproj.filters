@@ -846,5 +846,8 @@
     <ClCompile Include="conditional_operator.c">
       <Filter>Source Files\12_BitShiftConditional</Filter>
     </ClCompile>
+    <ClCompile Include="operator_max_size.c">
+      <Filter>Source Files\12_BitShiftConditional</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

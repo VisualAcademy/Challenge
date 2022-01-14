@@ -5,9 +5,9 @@
 int main(void)
 {
     const int max_size = 20; // 최댓값을 20으로 고정(제한)
-    int page_size = 0; 
+    int page_size = 0;
 
-    page_size = 10; 
+    page_size = 10;
     // 3항(조건) 연산자가 거짓이면 두 번째 식(page_size)이 반환 
     page_size = (page_size > max_size) ? max_size : page_size; // 10 
     printf("%d\n", page_size); // 10
