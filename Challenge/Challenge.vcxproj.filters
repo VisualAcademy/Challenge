@@ -852,5 +852,8 @@
     <ClCompile Include="ternary_operator.c">
       <Filter>Source Files\12_BitShiftConditional</Filter>
     </ClCompile>
+    <ClCompile Include="absolute_value.c">
+      <Filter>Source Files\12_BitShiftConditional</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
