@@ -858,5 +858,8 @@
     <ClCompile Include="sizeof_operator.c">
       <Filter>Source Files\12_BitShiftConditional</Filter>
     </ClCompile>
+    <ClCompile Include="operator_precedence.c">
+      <Filter>Source Files\12_BitShiftConditional</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
