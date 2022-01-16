@@ -318,31 +318,13 @@
     <ClCompile Include="sequence_demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="if.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="single_multiple.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="if_demo.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="if_not.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="if_nested.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="if_and.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="else_note.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="else.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="if_else.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="greater_than_equal.c">
@@ -357,12 +339,6 @@
     <ClCompile Include="else_nested.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="if_else_score_grade.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="if_else_if_else.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="positive_negative_zero.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -370,9 +346,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="score_grade.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="if_else_all.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="alphabet.c">
@@ -571,12 +544,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="typedef_keyword.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="if_exam.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="if_practice.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="circle_area.c">
@@ -860,6 +827,39 @@
     </ClCompile>
     <ClCompile Include="operator_precedence.c">
       <Filter>Source Files\12_BitShiftConditional</Filter>
+    </ClCompile>
+    <ClCompile Include="if.c">
+      <Filter>Source Files\13_IfElse</Filter>
+    </ClCompile>
+    <ClCompile Include="if_and.c">
+      <Filter>Source Files\13_IfElse</Filter>
+    </ClCompile>
+    <ClCompile Include="if_demo.c">
+      <Filter>Source Files\13_IfElse</Filter>
+    </ClCompile>
+    <ClCompile Include="if_else.c">
+      <Filter>Source Files\13_IfElse</Filter>
+    </ClCompile>
+    <ClCompile Include="if_else_all.c">
+      <Filter>Source Files\13_IfElse</Filter>
+    </ClCompile>
+    <ClCompile Include="if_else_if_else.c">
+      <Filter>Source Files\13_IfElse</Filter>
+    </ClCompile>
+    <ClCompile Include="if_else_score_grade.c">
+      <Filter>Source Files\13_IfElse</Filter>
+    </ClCompile>
+    <ClCompile Include="if_exam.c">
+      <Filter>Source Files\13_IfElse</Filter>
+    </ClCompile>
+    <ClCompile Include="if_nested.c">
+      <Filter>Source Files\13_IfElse</Filter>
+    </ClCompile>
+    <ClCompile Include="if_not.c">
+      <Filter>Source Files\13_IfElse</Filter>
+    </ClCompile>
+    <ClCompile Include="if_practice.c">
+      <Filter>Source Files\13_IfElse</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
