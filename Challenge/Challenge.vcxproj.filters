@@ -357,9 +357,6 @@
     <ClCompile Include="atof_function.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="sum100.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="infinite_loop.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -859,6 +856,9 @@
       <Filter>Source Files\15_For</Filter>
     </ClCompile>
     <ClCompile Include="for_triangle.c">
+      <Filter>Source Files\15_For</Filter>
+    </ClCompile>
+    <ClCompile Include="sum100.c">
       <Filter>Source Files\15_For</Filter>
     </ClCompile>
   </ItemGroup>
