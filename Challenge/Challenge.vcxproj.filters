@@ -174,9 +174,6 @@
     <ClCompile Include="pointer_address.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="timestable.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="hello_world.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -355,9 +352,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="atof_function.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="infinite_loop.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="sum_algorithm.c">
@@ -859,6 +853,12 @@
       <Filter>Source Files\15_For</Filter>
     </ClCompile>
     <ClCompile Include="sum100.c">
+      <Filter>Source Files\15_For</Filter>
+    </ClCompile>
+    <ClCompile Include="infinite_loop.c">
+      <Filter>Source Files\15_For</Filter>
+    </ClCompile>
+    <ClCompile Include="timestable.c">
       <Filter>Source Files\15_For</Filter>
     </ClCompile>
   </ItemGroup>
