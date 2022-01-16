@@ -303,18 +303,6 @@
     <ClCompile Include="const_double_string.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="switch_expression.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="switch.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="switch_statement.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="switch_weather.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="sequence_demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -860,6 +848,18 @@
     </ClCompile>
     <ClCompile Include="if_practice.c">
       <Filter>Source Files\13_IfElse</Filter>
+    </ClCompile>
+    <ClCompile Include="switch.c">
+      <Filter>Source Files\14_Switch</Filter>
+    </ClCompile>
+    <ClCompile Include="switch_expression.c">
+      <Filter>Source Files\14_Switch</Filter>
+    </ClCompile>
+    <ClCompile Include="switch_statement.c">
+      <Filter>Source Files\14_Switch</Filter>
+    </ClCompile>
+    <ClCompile Include="switch_weather.c">
+      <Filter>Source Files\14_Switch</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
