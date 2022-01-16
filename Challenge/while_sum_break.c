@@ -3,8 +3,8 @@
 
 int main(void)
 {
-    int goal = 22;
-    int sum = 0;
+    int goal = 22; // ¸ñÇ¥Ä¡
+    int sum = 0; 
 
     int i = 1;
     while (i <= 10)

@@ -111,27 +111,6 @@
     <ClCompile Include="ascii_to_number.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="break_for.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="break_infinite_loop.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="break_demo.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="while_sum_break.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="continue_demo.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="goto_demo.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="while_break.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="union_demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -208,9 +187,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="storage_class_3.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="only_multiples.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="sring_reverse_english.c">
@@ -345,9 +321,6 @@
     <ClCompile Include="strcmp.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="while_description.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="atoi_function.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -355,33 +328,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="sum_algorithm.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="while_sum.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="while_even.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="while_fibonacci.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="while_demo.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="while_loop.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="while_decrement.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="do_while.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="do_while_sum.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="do_while_demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="array_same_index.c">
@@ -837,9 +783,6 @@
     <ClCompile Include="for_factorial.c">
       <Filter>Source Files\15_For</Filter>
     </ClCompile>
-    <ClCompile Include="for_if_continue.c">
-      <Filter>Source Files\15_For</Filter>
-    </ClCompile>
     <ClCompile Include="for_increment.c">
       <Filter>Source Files\15_For</Filter>
     </ClCompile>
@@ -860,6 +803,63 @@
     </ClCompile>
     <ClCompile Include="timestable.c">
       <Filter>Source Files\15_For</Filter>
+    </ClCompile>
+    <ClCompile Include="while_decrement.c">
+      <Filter>Source Files\16_WhileDoForEach</Filter>
+    </ClCompile>
+    <ClCompile Include="while_demo.c">
+      <Filter>Source Files\16_WhileDoForEach</Filter>
+    </ClCompile>
+    <ClCompile Include="while_description.c">
+      <Filter>Source Files\16_WhileDoForEach</Filter>
+    </ClCompile>
+    <ClCompile Include="while_even.c">
+      <Filter>Source Files\16_WhileDoForEach</Filter>
+    </ClCompile>
+    <ClCompile Include="while_fibonacci.c">
+      <Filter>Source Files\16_WhileDoForEach</Filter>
+    </ClCompile>
+    <ClCompile Include="while_loop.c">
+      <Filter>Source Files\16_WhileDoForEach</Filter>
+    </ClCompile>
+    <ClCompile Include="while_sum.c">
+      <Filter>Source Files\16_WhileDoForEach</Filter>
+    </ClCompile>
+    <ClCompile Include="do_while.c">
+      <Filter>Source Files\16_WhileDoForEach</Filter>
+    </ClCompile>
+    <ClCompile Include="do_while_demo.c">
+      <Filter>Source Files\16_WhileDoForEach</Filter>
+    </ClCompile>
+    <ClCompile Include="do_while_sum.c">
+      <Filter>Source Files\16_WhileDoForEach</Filter>
+    </ClCompile>
+    <ClCompile Include="break_demo.c">
+      <Filter>Source Files\17_BreakContinueGoto</Filter>
+    </ClCompile>
+    <ClCompile Include="break_for.c">
+      <Filter>Source Files\17_BreakContinueGoto</Filter>
+    </ClCompile>
+    <ClCompile Include="break_infinite_loop.c">
+      <Filter>Source Files\17_BreakContinueGoto</Filter>
+    </ClCompile>
+    <ClCompile Include="while_sum_break.c">
+      <Filter>Source Files\17_BreakContinueGoto</Filter>
+    </ClCompile>
+    <ClCompile Include="for_if_continue.c">
+      <Filter>Source Files\17_BreakContinueGoto</Filter>
+    </ClCompile>
+    <ClCompile Include="continue_demo.c">
+      <Filter>Source Files\17_BreakContinueGoto</Filter>
+    </ClCompile>
+    <ClCompile Include="only_multiples.c">
+      <Filter>Source Files\17_BreakContinueGoto</Filter>
+    </ClCompile>
+    <ClCompile Include="while_break.c">
+      <Filter>Source Files\17_BreakContinueGoto</Filter>
+    </ClCompile>
+    <ClCompile Include="goto_demo.c">
+      <Filter>Source Files\17_BreakContinueGoto</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
