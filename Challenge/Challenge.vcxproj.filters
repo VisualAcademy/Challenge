@@ -867,5 +867,8 @@
     <ClCompile Include="array_init.c">
       <Filter>Source Files\18_Array</Filter>
     </ClCompile>
+    <ClCompile Include="input_integer_.c">
+      <Filter>Source Files\08_IO</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
