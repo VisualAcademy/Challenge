@@ -123,9 +123,6 @@
     <ClCompile Include="while_sum_break.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="for_if_continue.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="continue_demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -360,43 +357,10 @@
     <ClCompile Include="atof_function.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="for_description.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="for_description_up.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="for.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="for_increment.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="for_sum.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="for_sum_even.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="sum100.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="for_demo_countdown.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="for_even.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="for_demo.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="for_triangle.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="infinite_loop.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="for_factorial.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="sum_algorithm.c">
@@ -860,6 +824,42 @@
     </ClCompile>
     <ClCompile Include="switch_weather.c">
       <Filter>Source Files\14_Switch</Filter>
+    </ClCompile>
+    <ClCompile Include="for.c">
+      <Filter>Source Files\15_For</Filter>
+    </ClCompile>
+    <ClCompile Include="for_demo.c">
+      <Filter>Source Files\15_For</Filter>
+    </ClCompile>
+    <ClCompile Include="for_demo_countdown.c">
+      <Filter>Source Files\15_For</Filter>
+    </ClCompile>
+    <ClCompile Include="for_description.c">
+      <Filter>Source Files\15_For</Filter>
+    </ClCompile>
+    <ClCompile Include="for_description_up.c">
+      <Filter>Source Files\15_For</Filter>
+    </ClCompile>
+    <ClCompile Include="for_even.c">
+      <Filter>Source Files\15_For</Filter>
+    </ClCompile>
+    <ClCompile Include="for_factorial.c">
+      <Filter>Source Files\15_For</Filter>
+    </ClCompile>
+    <ClCompile Include="for_if_continue.c">
+      <Filter>Source Files\15_For</Filter>
+    </ClCompile>
+    <ClCompile Include="for_increment.c">
+      <Filter>Source Files\15_For</Filter>
+    </ClCompile>
+    <ClCompile Include="for_sum.c">
+      <Filter>Source Files\15_For</Filter>
+    </ClCompile>
+    <ClCompile Include="for_sum_even.c">
+      <Filter>Source Files\15_For</Filter>
+    </ClCompile>
+    <ClCompile Include="for_triangle.c">
+      <Filter>Source Files\15_For</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
