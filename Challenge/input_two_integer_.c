@@ -5,10 +5,10 @@
 
 int main(void)
 {
-    int one, two;
+    int one, two, _;
 
     printf("정수 두 개를 공백으로 구분해서 입력하세요: ");
-    scanf("%d %d", &one, &two); // 2개의 정수를 입력 받아 각각의 변수에 저장
+    _ = scanf("%d %d", &one, &two); // 2개의 정수를 입력 받아 각각의 변수에 저장
 
     printf("%d %d\n", one, two); // 입력된 내용 출력 
 
