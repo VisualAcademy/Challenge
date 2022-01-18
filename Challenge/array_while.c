@@ -12,5 +12,5 @@ int main(void)
         index++;
     }
 
-    return 0; 
+    return 0;
 }

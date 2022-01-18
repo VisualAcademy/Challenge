@@ -879,5 +879,8 @@
     <ClCompile Include="array_index.c">
       <Filter>Source Files\18_Array</Filter>
     </ClCompile>
+    <ClCompile Include="array_while.c">
+      <Filter>Source Files\18_Array</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
