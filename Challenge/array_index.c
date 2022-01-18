@@ -1,3 +1,4 @@
+// 배열 인덱스에 증감 연산자 사용하기
 #include <stdio.h>
 
 int main(void)
@@ -14,5 +15,5 @@ int main(void)
     printf("%d\t", array[--index]); // index == 1로 감소 후, array[1] 출력 
     printf("%d\n", array[--index]); // index == 0로 감소 후, array[0] 출력 
 
-    return 0;
+    return 0; 
 }
