@@ -225,12 +225,6 @@
     <ClCompile Include="string_demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="string_with_char_array.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="string.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="judge_variable.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -881,6 +875,12 @@
     </ClCompile>
     <ClCompile Include="array_while.c">
       <Filter>Source Files\18_Array</Filter>
+    </ClCompile>
+    <ClCompile Include="string.c">
+      <Filter>Source Files\07_Other</Filter>
+    </ClCompile>
+    <ClCompile Include="string_with_char_array.c">
+      <Filter>Source Files\07_Other</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
