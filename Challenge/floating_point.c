@@ -9,7 +9,7 @@ int main(void)
 	double d = 3.141592; // 배정밀도 부동소수점 변수, 접미사를 붙이지 않음
 	long double ld = 3.141592l; // 배정밀도 부동소수점 변수 접미사 l을 붙임
 
-	//[2] 자리 표시자: float(%f), double(%f), long double(%Lf)
+	//[2] 서식 지정자: float(%f), double(%f), long double(%Lf)
 	printf("%.6f %.6f %.6Lf\n", f, d, ld); // 3.141592 3.141592 3.141592
 
 	// 서식 지정자로 지수 표기법 사용: float(%e), double(%e), long double(%Le)
