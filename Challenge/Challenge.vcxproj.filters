@@ -882,5 +882,8 @@
     <ClCompile Include="string_with_char_array.c">
       <Filter>Source Files\07_Other</Filter>
     </ClCompile>
+    <ClCompile Include="characters.c">
+      <Filter>Source Files\07_Other</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
