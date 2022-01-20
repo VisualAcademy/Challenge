@@ -12,5 +12,5 @@ int main(void)
 {
     show(); //[2] show 함수 호출
 
-    return 0;
+    return 0; 
 }

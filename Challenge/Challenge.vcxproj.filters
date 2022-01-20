@@ -885,5 +885,8 @@
     <ClCompile Include="characters.c">
       <Filter>Source Files\07_Other</Filter>
     </ClCompile>
+    <ClCompile Include="function_demo.c">
+      <Filter>Source Files\19_Function</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
