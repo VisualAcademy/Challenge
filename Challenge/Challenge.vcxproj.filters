@@ -903,5 +903,11 @@
     <ClCompile Include="function_prototype.c">
       <Filter>Source Files\19_Function</Filter>
     </ClCompile>
+    <ClCompile Include="max_min_function.c">
+      <Filter>Source Files\19_Function</Filter>
+    </ClCompile>
+    <ClCompile Include="function_abs.c">
+      <Filter>Source Files\19_Function</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
