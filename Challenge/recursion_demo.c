@@ -20,7 +20,7 @@ int factorial(int n)
 }
 
 // 단순한 factorial은 이 방법이 좋음
-int factorialFor(int n)
+int factorial_for(int n)
 {
     int result = 1;
     for (int i = 1; i <= n; i++)
@@ -34,7 +34,7 @@ int main(void)
 {
     // 재귀 호출을 사용하여 factorial을 구하기: 4! = 4 * 3 * 2 * 1 = 24
     printf("%d\n", 4 * 3 * 2 * 1); // 24
-    printf("%d\n", factorialFor(4)); // 24
+    printf("%d\n", factorial_for(4)); // 24
     printf("%d\n", factorial(4)); // 24
     printf("%d\n", fact(4)); // 24
 
