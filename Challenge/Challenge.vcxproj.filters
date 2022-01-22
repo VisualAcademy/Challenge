@@ -900,5 +900,8 @@
     <ClCompile Include="function_return_value.c">
       <Filter>Source Files\19_Function</Filter>
     </ClCompile>
+    <ClCompile Include="function_prototype.c">
+      <Filter>Source Files\19_Function</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
