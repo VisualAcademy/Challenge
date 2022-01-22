@@ -909,5 +909,8 @@
     <ClCompile Include="function_abs.c">
       <Filter>Source Files\19_Function</Filter>
     </ClCompile>
+    <ClCompile Include="recursion_demo.c">
+      <Filter>Source Files\19_Function</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
