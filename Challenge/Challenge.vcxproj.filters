@@ -912,5 +912,8 @@
     <ClCompile Include="recursion_demo.c">
       <Filter>Source Files\19_Function</Filter>
     </ClCompile>
+    <ClCompile Include="decimal_part.c">
+      <Filter>Source Files\08_IO</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
