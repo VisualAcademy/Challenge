@@ -915,5 +915,8 @@
     <ClCompile Include="decimal_part.c">
       <Filter>Source Files\08_IO</Filter>
     </ClCompile>
+    <ClCompile Include="array_initializer.c">
+      <Filter>Source Files\18_Array</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

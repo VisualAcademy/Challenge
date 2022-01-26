@@ -10,6 +10,6 @@ int main(void)
 
     printf("%d\n", num); // 1234
     printf("%lf, %lf\n", numbers[0], numbers[1]); // 1234.000000, 3.140000
-    
+
     return 0;
 }
