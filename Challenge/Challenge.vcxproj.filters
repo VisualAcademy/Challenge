@@ -918,5 +918,8 @@
     <ClCompile Include="array_initializer.c">
       <Filter>Source Files\18_Array</Filter>
     </ClCompile>
+    <ClCompile Include="for_loop.c">
+      <Filter>Source Files\15_For</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
