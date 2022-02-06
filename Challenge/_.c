@@ -1,15 +1,22 @@
-// array_initializer.c
-// 배열 이니셜라이저 식 
+// 구구단 출력하기 
 #include <stdio.h>
 
 int main(void)
 {
-    int num = { 1234 }; // 배열 이니셜라이저(초기자, 초기화자) 
+    for (int i = 2; i <= 9; i++)
+    {
+        printf("%4d단  ", i);
+    }
+    printf("\n");
 
-    double numbers[] = { 1234, 3.14 }; // 배열 이니셜라이저 
+    for (int i = 1; i <= 9; i++) // 행 반복: 구구단 세로 출력
+    {
+        for (int j = 2; j <= 9; j++) // 열 반복: 구구단 가로 출력
+        {
+            printf("%d*%d=%2d  ", j, i, j * i); // i와 j의 위치를 바꿔서 출력
+        }
+        printf("\n"); // 한 줄 출력 후 줄바꿈
+    }
 
-    printf("%d\n", num); // 1234
-    printf("%lf, %lf\n", numbers[0], numbers[1]); // 1234.000000, 3.140000
-    
     return 0;
 }
