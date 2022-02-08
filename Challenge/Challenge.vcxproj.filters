@@ -924,5 +924,8 @@
     <ClCompile Include="input_unsigned_integer_.c">
       <Filter>Source Files\08_IO</Filter>
     </ClCompile>
+    <ClCompile Include="input_real_number.c">
+      <Filter>Source Files\08_IO</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
