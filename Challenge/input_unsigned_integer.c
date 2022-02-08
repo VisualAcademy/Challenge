@@ -6,10 +6,9 @@
 int main(void)
 {
     unsigned int age;
-    int _; // 버림(Discards) 
 
     printf("나이를 입력하세요: "); // 프롬프트(Prompt, 안내 메시지)
-    _ = scanf("%u", &age); // %u 서식 지정자로 부호없는 정수 입력 받기 
+    scanf("%u", &age); // %u 서식 지정자로 부호없는 정수 입력 받기 
 
     printf("나이: %d\n", age); // 입력된 값 출력 
 
