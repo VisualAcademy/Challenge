@@ -936,5 +936,11 @@
     <ClCompile Include="input_character_.c">
       <Filter>Source Files\08_IO</Filter>
     </ClCompile>
+    <ClCompile Include="getchar.c">
+      <Filter>Source Files\08_IO</Filter>
+    </ClCompile>
+    <ClCompile Include="tolower.c">
+      <Filter>Source Files\08_IO</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
