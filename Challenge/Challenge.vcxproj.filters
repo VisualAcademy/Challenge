@@ -948,5 +948,11 @@
     <ClCompile Include="fgets.c">
       <Filter>Source Files\08_IO</Filter>
     </ClCompile>
+    <ClCompile Include="multi.c">
+      <Filter>Source Files\08_IO</Filter>
+    </ClCompile>
+    <ClCompile Include="literal_.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
