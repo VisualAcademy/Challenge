@@ -933,5 +933,8 @@
     <ClCompile Include="integer_size_docs.c">
       <Filter>Source Files\06_Number</Filter>
     </ClCompile>
+    <ClCompile Include="input_character_.c">
+      <Filter>Source Files\08_IO</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

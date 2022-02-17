@@ -11,7 +11,7 @@ int main(void)
     int _ = scanf("%c", &c);
 
     // 대문자 A를 입력했다면 %c는 문자 A, %d는 정수 65를 출력합니다. 
-    printf("%c(%d)", c, c); // %c로 문자 출력, %d로 아스키코드 출력 
+    printf("%c: %d", c, c); // %c로 문자 출력, %d로 아스키코드 출력 
 
     return 0;
 }
