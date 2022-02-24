@@ -957,5 +957,14 @@
     <ClCompile Include="fmodl.c">
       <Filter>Source Files\09_Operator</Filter>
     </ClCompile>
+    <ClCompile Include="precedence.c">
+      <Filter>Source Files\09_Operator</Filter>
+    </ClCompile>
+    <ClCompile Include="shortcut.c">
+      <Filter>Source Files\09_Operator</Filter>
+    </ClCompile>
+    <ClCompile Include="increment_decrement.c">
+      <Filter>Source Files\09_Operator</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
