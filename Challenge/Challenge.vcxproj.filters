@@ -954,5 +954,8 @@
     <ClCompile Include="literal_.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="fmodl.c">
+      <Filter>Source Files\09_Operator</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
