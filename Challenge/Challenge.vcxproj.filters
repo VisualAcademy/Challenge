@@ -966,5 +966,8 @@
     <ClCompile Include="increment_decrement.c">
       <Filter>Source Files\09_Operator</Filter>
     </ClCompile>
+    <ClCompile Include="getchar_.c">
+      <Filter>Source Files\08_IO</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
