@@ -4,8 +4,8 @@
 int main(void)
 {
     int score1, score2, score3;
-    int total; 
-    double average; 
+    int total;
+    double average;
 
     scanf("%d %d %d", &score1, &score2, &score3);
 
@@ -15,7 +15,7 @@ int main(void)
     // 평균 구하기 
     average = total / 3.0; // 평균 자동 형 변환 
 
-    printf("세 과목의 평균: %.2lf\n", average); 
+    printf("세 과목의 평균: %.2lf\n", average);
 
     return 0;
 }
