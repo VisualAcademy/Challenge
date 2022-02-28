@@ -981,5 +981,8 @@
     <ClCompile Include="elseif.c">
       <Filter>Source Files\13_IfElse</Filter>
     </ClCompile>
+    <ClCompile Include="nested_if.c">
+      <Filter>Source Files\13_IfElse</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
