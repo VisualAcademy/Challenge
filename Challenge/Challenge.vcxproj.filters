@@ -975,5 +975,11 @@
     <ClCompile Include="else_note.c">
       <Filter>Source Files\13_IfElse</Filter>
     </ClCompile>
+    <ClCompile Include="else_demo.c">
+      <Filter>Source Files\13_IfElse</Filter>
+    </ClCompile>
+    <ClCompile Include="elseif.c">
+      <Filter>Source Files\13_IfElse</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

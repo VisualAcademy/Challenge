@@ -1,4 +1,4 @@
-// ÁßÃ¸ µÈ if ¹®
+// ÁßÃ¸ µÈ if Á¶°Ç¹®
 #include <stdio.h>
 
 int main(void)
