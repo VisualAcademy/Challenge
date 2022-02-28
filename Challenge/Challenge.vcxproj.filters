@@ -969,5 +969,8 @@
     <ClCompile Include="getchar_.c">
       <Filter>Source Files\08_IO</Filter>
     </ClCompile>
+    <ClCompile Include="float_int.c">
+      <Filter>Source Files\08_IO</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
