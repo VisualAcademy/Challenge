@@ -12,7 +12,7 @@ int main(void)
     int _ = scanf("%lld %lld", &num1, &num2); // %lld 서식 지정자 사용
 
     sum = num1 + num2; // 합계
-    avg = sum / 2.0; // 평균
+    avg = sum / 2.0; // 평균, 자동 형 변환 
 
     printf("Sum: %lld\n", sum);
     printf("Avg: %.1lf\n", avg); // 소수점 첫 번째 자리까지 반올림해서 출력
