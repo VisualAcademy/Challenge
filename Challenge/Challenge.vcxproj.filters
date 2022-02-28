@@ -258,12 +258,6 @@
     <ClCompile Include="single_multiple.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="else_note.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="else.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="greater_than_equal.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -273,13 +267,7 @@
     <ClCompile Include="char_test.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="else_nested.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="positive_negative_zero.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="else_if.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="score_grade.c">
@@ -974,6 +962,18 @@
     </ClCompile>
     <ClCompile Include="total_average.c">
       <Filter>Source Files\08_IO</Filter>
+    </ClCompile>
+    <ClCompile Include="else.c">
+      <Filter>Source Files\13_IfElse</Filter>
+    </ClCompile>
+    <ClCompile Include="else_if.c">
+      <Filter>Source Files\13_IfElse</Filter>
+    </ClCompile>
+    <ClCompile Include="else_nested.c">
+      <Filter>Source Files\13_IfElse</Filter>
+    </ClCompile>
+    <ClCompile Include="else_note.c">
+      <Filter>Source Files\13_IfElse</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
