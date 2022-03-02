@@ -7,12 +7,12 @@ int main(void)
     int x = 3;
     int y = 5;
 
-    printf("%d\n", x == y); // 0 : false
-    printf("%d\n", x != y); // 1 : true
-    printf("%d\n", x > y); // 0
-    printf("%d\n", x >= y); // 0
-    printf("%d\n", x < y); // 1
-    printf("%d\n", x <= y); // 1
+    printf("%d\n", x == y); // 0: x와 y가 같은지
+    printf("%d\n", x != y); // 1: x와 y가 다른지
+    printf("%d\n", x > y); // 0: x가 y보다 큰지
+    printf("%d\n", x >= y); // 0: x가 y보다 크거나 같은지 
+    printf("%d\n", x < y); // 1: x가 y보다 작은지 
+    printf("%d\n", x <= y); // 1: x가 y보다 작거나 같은지 
 
     return 0;
 }

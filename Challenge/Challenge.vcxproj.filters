@@ -987,5 +987,8 @@
     <ClCompile Include="nested_else.c">
       <Filter>Source Files\13_IfElse</Filter>
     </ClCompile>
+    <ClCompile Include="bool_type.c">
+      <Filter>Source Files\11-relational-logical</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
