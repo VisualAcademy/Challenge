@@ -990,5 +990,11 @@
     <ClCompile Include="bool_type.c">
       <Filter>Source Files\11-relational-logical</Filter>
     </ClCompile>
+    <ClCompile Include="ternary.c">
+      <Filter>Source Files\12_BitShiftConditional</Filter>
+    </ClCompile>
+    <ClCompile Include="bool_string.c">
+      <Filter>Source Files\12_BitShiftConditional</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
