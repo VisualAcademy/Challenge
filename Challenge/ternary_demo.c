@@ -5,8 +5,14 @@ int main(void)
 {
     int a = 5;
     int b = 5;
+    int max = 0; 
 
-    int max = (a > b) ? a : b; 
+
+
+    max = (a > b) ? a : b;
+
+
+
 
     return 0;
 }
