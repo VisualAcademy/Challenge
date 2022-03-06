@@ -3,10 +3,13 @@
 
 int main(void)
 {
-    int a = 5;
-    int b = 5;
+    char c;
 
-    int max = (a > b) ? a : b; 
+    // 문자 하나를 입력 후 엔터키를 누릅니다.
+    int _ = scanf("%c", &c);
+
+    // 대문자 A를 입력했다면 %c는 문자 A, %d는 정수 65를 출력합니다.
+    printf("%c: %d\n", c, c);   // A: 65
 
     return 0;
 }
