@@ -999,5 +999,8 @@
     <ClCompile Include="ternary_demo.c">
       <Filter>Source Files\12_BitShiftConditional</Filter>
     </ClCompile>
+    <ClCompile Include="longlong_int.c">
+      <Filter>Source Files\08_IO</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
