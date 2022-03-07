@@ -1002,5 +1002,8 @@
     <ClCompile Include="longlong_int.c">
       <Filter>Source Files\08_IO</Filter>
     </ClCompile>
+    <ClCompile Include="bitwise_operator_.c">
+      <Filter>Source Files\12_BitShiftConditional</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

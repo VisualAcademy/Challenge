@@ -1,19 +1,19 @@
-#define _CRT_SECURE_NO_WARNINGS // scanf 보안 경고로 인한 컴파일 에러 방지 
+// 비트 연산자: &, |, ~, ^
 #include <stdio.h>
 
 int main(void)
 {
-    long long num1 = 9223372036854775807LL; // long long의 최댓값 
-    int num2 = num1; // 컴파일러 경고 발생: '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-    printf("%d\n", num2); // -1: 손실된 값 출력
+    int x = 10; // 1010
+    int y = 6; // 0110
 
-    long long num3 = 1234LL; // int 범위의 long long 데이터
-    int num4 = num3; // 컴파일러 경고 발생: '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-    printf("%d\n", num4); // 1234: 변환된 값 출력
+    printf("%d\n", x & y); // 2
 
-    long long num5 = 1234LL; // // int 범위의 long long 데이터
-    int num6 = (int)num5; // 컴파일러 경고 없음
-    printf("%d\n", num4); // 1234
+    printf("%d\n", x | y); // 14
+
+    printf("%d\n", x ^ y); // 12
+
+    // 2의 보수법에 의해서 1010+1 그리고 부호를 -로 -1011 => -11
+    printf("%d\n", ~x); // -11
 
     return 0;
 }
