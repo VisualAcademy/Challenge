@@ -7,9 +7,10 @@ int main(void)
 
     do
     {
-        printf("안녕하세요.\n");     // 실행문
-        count++;                    // 증감식
+        printf("%d\n", count);     // 실행문
+        count++;                    // 변화식
     } while (count < 3);            // 조건식
 
+    printf("루프 종료 후: %d\n", count);
     return 0;
 }
