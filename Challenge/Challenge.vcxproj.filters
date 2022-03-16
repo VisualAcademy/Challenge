@@ -1005,5 +1005,8 @@
     <ClCompile Include="bitwise_operator_.c">
       <Filter>Source Files\12_BitShiftConditional</Filter>
     </ClCompile>
+    <ClCompile Include="for_alphabet.c">
+      <Filter>Source Files\15_For</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
