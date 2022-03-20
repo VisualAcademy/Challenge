@@ -1008,5 +1008,8 @@
     <ClCompile Include="for_alphabet.c">
       <Filter>Source Files\15_For</Filter>
     </ClCompile>
+    <ClCompile Include="fall_through.c">
+      <Filter>Source Files\14_Switch</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
