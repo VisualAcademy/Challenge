@@ -1011,5 +1011,8 @@
     <ClCompile Include="fall_through.c">
       <Filter>Source Files\14_Switch</Filter>
     </ClCompile>
+    <ClCompile Include="leap_year.c">
+      <Filter>Source Files\11-relational-logical</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
