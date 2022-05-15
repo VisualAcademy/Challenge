@@ -1017,5 +1017,8 @@
     <ClCompile Include="bitwise_assignment_.c">
       <Filter>Source Files\12_BitShiftConditional</Filter>
     </ClCompile>
+    <ClCompile Include="goto_exit.c">
+      <Filter>Source Files\17_BreakContinueGoto</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
