@@ -4,7 +4,7 @@
 int main(void)
 {
     bool r = false;
-    printf("%s\n", r == true ? "true" : "false");
+    printf("%s\n", r == true ? "true" : "false"); // false
 
     return 0;
 }
