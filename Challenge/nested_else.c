@@ -1,4 +1,4 @@
-// 하나의 입력된 문자에 따라서 'y'이면 "Yes"를, 'n'이면 "No"를, 
+// 입력된 문자가 'y'이면 "Yes"를, 'n'이면 "No"를,  
 // 나머지는 모두 "Cancel"을 출력하는 프로그램
 #define _CRT_SECURE_NO_WARNINGS // scanf 보안 경고로 인한 컴파일 에러 방지 
 #include <stdio.h>
@@ -7,7 +7,7 @@ int main(void)
 {
     char input;
     printf("문자를 입력하세요. (y/n): ");
-    scanf("%c", &input);
+    scanf("%c", &input); // 문자도 정수형이므로 &를 붙여야 합니다 
 
     if (input == 'y')
     {
