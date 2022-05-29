@@ -91,6 +91,9 @@
     <Filter Include="Source Files\58_IO">
       <UniqueIdentifier>{511b3b06-95ad-486a-b480-7e430f705bdd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\02_VisualStudio">
+      <UniqueIdentifier>{e18789c3-093a-43fc-a284-30687e547dd8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="macro_constant.c">
@@ -1019,6 +1022,9 @@
     </ClCompile>
     <ClCompile Include="goto_exit.c">
       <Filter>Source Files\17_BreakContinueGoto</Filter>
+    </ClCompile>
+    <ClCompile Include="inline_hints.c">
+      <Filter>Source Files\02_VisualStudio</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
