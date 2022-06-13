@@ -1026,5 +1026,8 @@
     <ClCompile Include="inline_hints.c">
       <Filter>Source Files\02_VisualStudio</Filter>
     </ClCompile>
+    <ClCompile Include="elseif_demo.c">
+      <Filter>Source Files\13_IfElse</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
