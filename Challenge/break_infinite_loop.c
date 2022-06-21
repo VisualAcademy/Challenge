@@ -6,7 +6,9 @@ int main(void)
 
     while (1) // 무한 루프: 1(참)일 동안 계속 실행
     {
-        printf("%d\n", ++number);
+        number = number + 1; // number 값 1 증가
+
+        printf("%d\n", number); // 정수 출력 
 
         if (number >= 5)
         {
