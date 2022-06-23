@@ -1029,5 +1029,8 @@
     <ClCompile Include="elseif_demo.c">
       <Filter>Source Files\13_IfElse</Filter>
     </ClCompile>
+    <ClCompile Include="break_statement.c">
+      <Filter>Source Files\17_BreakContinueGoto</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
