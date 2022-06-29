@@ -1,9 +1,11 @@
-// switch 문 사용하기
+#define _CRT_SECURE_NO_WARNINGS // scanf 보안 경고로 인한 컴파일 에러 방지 
 #include <stdio.h>
 
 int main(void)
 {
-    int x = 2;
+    int x;
+
+    scanf("%d", &x);
 
     switch (x)
     {
