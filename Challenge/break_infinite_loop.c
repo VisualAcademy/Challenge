@@ -10,7 +10,7 @@ int main(void)
 
         printf("%d\n", number); // 정수 출력 
 
-        if (number >= 5)
+        if (number >= 5) // 중단 조건
         {
             break; // break 문으로 number가 5 이상이면 무한 루프 빠져 나오기 
         }

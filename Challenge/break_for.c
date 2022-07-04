@@ -2,7 +2,7 @@ int main(void)
 {
     for (int i = 0; i < 5; i++)
     {
-        if (i >= 0)
+        if (i >= 0) // 중단 조건
         {
             break; // 현재 코드를 만나면 현재 for 문을 종료함
         }

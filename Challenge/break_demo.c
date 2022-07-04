@@ -5,7 +5,7 @@ int main(void)
     // break 문: for, while, do 문을 빠져나가는 역할
     for (int i = 0; i < 100; i++)
     {
-        if (i == 5)
+        if (i == 5) // 중단 조건
         {
             break; // i == 5일 때 break 문으로 for 문 종료
         }

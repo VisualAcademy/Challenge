@@ -6,7 +6,7 @@ int main(void)
     {
         printf("%d\n", i); // 인덱스 변수 i 출력
 
-        if (i == 3)
+        if (i == 3) // 중단 조건
         {
             break; // 현재 코드를 만나면 현재 for 문을 종료함
         }
