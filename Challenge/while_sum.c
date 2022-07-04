@@ -14,6 +14,7 @@ int main(void)
     }
 
     printf("1부터 100까지의 합: %d\n", sum); // 5050
+    printf("루프 종료 후 i: %d\n", i); // 101
 
     return 0;
 }
