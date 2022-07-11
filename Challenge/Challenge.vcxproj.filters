@@ -1032,5 +1032,8 @@
     <ClCompile Include="break_statement.c">
       <Filter>Source Files\17_BreakContinueGoto</Filter>
     </ClCompile>
+    <ClCompile Include="c_calculator.c">
+      <Filter>Source Files\14_Switch</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
