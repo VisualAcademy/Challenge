@@ -3,30 +3,31 @@
 
 int main(void)
 {
-    int x = 0;
-    int y = 0;
-    char opr;
-    int result = 0;
+    // 입력 변수는 0으로 초기화
+    int x = 0; // 첫 번째 숫자  
+    int y = 0; // 두 번째 숫자  
+    char opr; // 연산자 기호 문자  
+    int result = 0; // 연산 결과  
 
-    scanf("%d %c %d", &x, &opr, &y);
+    scanf("%d %c %d", &x, &opr, &y); // 3 + 5
 
-    switch (opr)
+    switch (opr)    // opr 연산자를 기준으로
     {
-        case '+':
-            result = x + y;
-            break;
-        case '-':
-            result = x - y;
-            break;
-        case '*':
-            result = x * y;
-            break;
-        case '/':
-            result = x / y;
-            break;
+    case '+':       // 덧셈이면
+        result = x + y;     // 더하고
+        break;              // 종료
+    case '-':       // 뺄셈이면 
+        result = x - y;     // 빼고 
+        break;              // 종료
+    case '*':       // 곱셈이면 
+        result = x * y;     // 곱하고 
+        break;              // 종료 
+    case '/':       // 나눗셈이면 
+        result = x / y;     // 나누고 
+        break;              // 종료
     }
 
-    printf("%d %c %d = %d\n", x, opr, y, result);
+    printf("%d\n", result);
 
     return 0;
 }
