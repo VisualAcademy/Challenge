@@ -1035,5 +1035,8 @@
     <ClCompile Include="c_calculator.c">
       <Filter>Source Files\14_Switch</Filter>
     </ClCompile>
+    <ClCompile Include="goto.c">
+      <Filter>Source Files\17_BreakContinueGoto</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
