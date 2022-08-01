@@ -1038,5 +1038,8 @@
     <ClCompile Include="goto.c">
       <Filter>Source Files\17_BreakContinueGoto</Filter>
     </ClCompile>
+    <ClCompile Include="goto_loop.c">
+      <Filter>Source Files\17_BreakContinueGoto</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
