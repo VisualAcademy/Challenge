@@ -8,7 +8,7 @@ int main(void)
         i++; // 변화식
     if (i < 3) // 조건식 
     {
-        goto loop_body; 
+        goto loop_body; // loop_body 레이블로 이동
     }
 
     return 0; 
