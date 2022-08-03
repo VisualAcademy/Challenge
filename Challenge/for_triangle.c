@@ -3,11 +3,9 @@
 
 int main(void)
 {
-    int i, j;
-
-    for (i = 1; i <= 5; i++)
+    for (int i = 1; i <= 5; i++)
     {
-        for (j = 1; j <= i; j++) // 행 번호에 맞게 별표 출력(1부터 5까지) 
+        for (int j = 1; j <= i; j++) // 행 번호에 맞게 별표 출력(1부터 5까지) 
         {
             printf("*");
         }

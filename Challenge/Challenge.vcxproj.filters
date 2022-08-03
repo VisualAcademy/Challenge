@@ -1044,5 +1044,8 @@
     <ClCompile Include="goto_nested_loops.c">
       <Filter>Source Files\17_BreakContinueGoto</Filter>
     </ClCompile>
+    <ClCompile Include="floyd_triangle.c">
+      <Filter>Source Files\15_For</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
