@@ -1048,4 +1048,9 @@
       <Filter>Source Files\22_Struct</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="Docs.txt">
+      <Filter>Source Files\22_Struct</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
