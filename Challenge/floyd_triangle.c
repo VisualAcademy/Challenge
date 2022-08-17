@@ -9,9 +9,9 @@ int main(void)
     printf("출력할 높이 수 입력: ");
     scanf("%d", &height);
 
-    for (int i = 0; i < height; i++)
+    for (int i = 0; i < height; i++) // 높이(height) 반복
     {
-        for (int j = 0; j <= i; j++)
+        for (int j = 0; j <= i; j++) // 너비(width) 반복
         {
             printf("%d ", count);
             count++;
