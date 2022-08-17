@@ -3,9 +3,9 @@
 
 int main(void)
 {
-    for (int i = 1; i <= 5; i++)
+    for (int i = 0; i < 5; i++) // 세로 반복
     {
-        for (int j = 1; j <= i; j++) // 행 번호에 맞게 별표 출력(1부터 5까지) 
+        for (int j = 0; j < i; j++) // 가로 반복: 가로 개수(j)에 맞게 별표 출력 
         {
             printf("*");
         }
