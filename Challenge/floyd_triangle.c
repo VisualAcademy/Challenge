@@ -3,15 +3,15 @@
 
 int main(void)
 {
-    int rows = 0;
-    int count = 1;
+    int height = 0; // 높이 저장 
+    int count = 1; // 카운트는 1부터 출력 
 
-    printf("출력할 행 수 입력: ");
-    scanf("%d", &rows);
+    printf("출력할 높이 수 입력: ");
+    scanf("%d", &height);
 
-    for (int i = 1; i <= rows; i++)
+    for (int i = 0; i < height; i++)
     {
-        for (int j = 1; j <= i; j++)
+        for (int j = 0; j <= i; j++)
         {
             printf("%d ", count);
             count++;
