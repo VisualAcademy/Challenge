@@ -1047,6 +1047,9 @@
     <ClCompile Include="struct_description.c">
       <Filter>Source Files\22_Struct</Filter>
     </ClCompile>
+    <ClCompile Include="inverted_pyramid.c">
+      <Filter>Source Files\20_Interactive</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Docs.txt">
