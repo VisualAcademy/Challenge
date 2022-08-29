@@ -1050,6 +1050,9 @@
     <ClCompile Include="inverted_pyramid.c">
       <Filter>Source Files\20_Interactive</Filter>
     </ClCompile>
+    <ClCompile Include="diamond.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Docs.txt">
