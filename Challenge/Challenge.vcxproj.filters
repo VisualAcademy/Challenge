@@ -1029,7 +1029,7 @@
     <ClCompile Include="goto_docs.c">
       <Filter>Source Files\17_BreakContinueGoto</Filter>
     </ClCompile>
-    <ClCompile Include="goto_loop.c">
+    <ClCompile Include="goto_loop_docs.c">
       <Filter>Source Files\17_BreakContinueGoto</Filter>
     </ClCompile>
     <ClCompile Include="goto_nested_loops.c">
@@ -1054,6 +1054,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="goto.c">
+      <Filter>Source Files\17_BreakContinueGoto</Filter>
+    </ClCompile>
+    <ClCompile Include="goto_loop.c">
       <Filter>Source Files\17_BreakContinueGoto</Filter>
     </ClCompile>
   </ItemGroup>
