@@ -1059,10 +1059,16 @@
     <ClCompile Include="goto_loop.c">
       <Filter>Source Files\17_BreakContinueGoto</Filter>
     </ClCompile>
+    <ClCompile Include="timestable_docs.c">
+      <Filter>Source Files\15_For</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Docs.txt">
       <Filter>Source Files\22_Struct</Filter>
+    </Text>
+    <Text Include="timestable.txt">
+      <Filter>Source Files\15_For</Filter>
     </Text>
   </ItemGroup>
 </Project>
