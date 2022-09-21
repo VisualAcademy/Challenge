@@ -97,6 +97,9 @@
     <Filter Include="Source Files\Pointer">
       <UniqueIdentifier>{86463f60-dd67-4605-b0a6-8c37f2208bb7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\21_FizzBuzz">
+      <UniqueIdentifier>{33873054-1d86-429a-9253-13c4503ca303}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="macro_constant.c">
@@ -1067,6 +1070,9 @@
     </ClCompile>
     <ClCompile Include="for_nested_triangle.c">
       <Filter>Source Files\15_For</Filter>
+    </ClCompile>
+    <ClCompile Include="fizzbuzz.c">
+      <Filter>Source Files\21_FizzBuzz</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
