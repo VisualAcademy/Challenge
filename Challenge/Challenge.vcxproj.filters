@@ -94,6 +94,9 @@
     <Filter Include="Source Files\02_VisualStudio">
       <UniqueIdentifier>{e18789c3-093a-43fc-a284-30687e547dd8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Pointer">
+      <UniqueIdentifier>{86463f60-dd67-4605-b0a6-8c37f2208bb7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="macro_constant.c">
@@ -126,13 +129,7 @@
     <ClCompile Include="pow_sqrt.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="pointer_variable.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="string_copy.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_address.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="hello_world.c">
@@ -309,18 +306,6 @@
     <ClCompile Include="local_variable.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="pointer_variable_five.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_one_array.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_array.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_integer.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="get_ordinal.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -334,9 +319,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="valuetype-referencetype.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_reference.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="basic_structure.c">
@@ -1060,6 +1042,30 @@
       <Filter>Source Files\17_BreakContinueGoto</Filter>
     </ClCompile>
     <ClCompile Include="timestable_docs.c">
+      <Filter>Source Files\15_For</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_variable_five.c">
+      <Filter>Source Files\Pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_address.c">
+      <Filter>Source Files\Pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_array.c">
+      <Filter>Source Files\Pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_integer.c">
+      <Filter>Source Files\Pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_one_array.c">
+      <Filter>Source Files\Pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_reference.c">
+      <Filter>Source Files\Pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_variable.c">
+      <Filter>Source Files\Pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="for_nested_triangle.c">
       <Filter>Source Files\15_For</Filter>
     </ClCompile>
   </ItemGroup>
