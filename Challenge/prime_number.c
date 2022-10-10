@@ -15,13 +15,13 @@ int main(void)
     int number;
     scanf("%d", &number);
 
-    //[2] Process
+    //[2] Process: Prime Number(2부터 n까지 나누어 떨어지는 수가 발생할 때가지 반복)
     i = 1;
     do
     {
         i = i + 1; // 2부터 n까지 비교
         printf("%d %% %d = %d\n", number, i, number % i);
-    } while (number % i != 0);
+    } while (number % i != 0); // 소수는 number로만 나누어 떨어짐
 
     //[3] Output
     if (number == i)
