@@ -15,7 +15,7 @@ int main(void)
     int number;
     scanf("%d", &number);
 
-    //[2] Process: Prime Number(2부터 n까지 나누어 떨어지는 수가 발생할 때가지 반복)
+    //[2] Process: Prime Number(2부터 n까지 나누어 떨어지는 수가 발생할 때까지 반복)
     i = 1;
     do
     {
