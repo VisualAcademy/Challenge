@@ -7,9 +7,7 @@
 
 int main(void)
 {
-    /// <summary>
-    /// 소수(Prime Number): 자연수 중에서 1과 자기 자신만을 약수로 가지는 자연수
-    /// </summary>
+    // 소수(Prime Number): 자연수 중에서 1과 자기 자신만을 약수로 가지는 자연수
     //[1] Input
     int i;
     int number;
