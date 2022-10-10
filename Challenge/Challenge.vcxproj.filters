@@ -100,6 +100,9 @@
     <Filter Include="Source Files\21_FizzBuzz">
       <UniqueIdentifier>{33873054-1d86-429a-9253-13c4503ca303}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\PrimeNumber">
+      <UniqueIdentifier>{992fcba4-f580-4e09-8301-8f2e588efed8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="macro_constant.c">
@@ -1073,6 +1076,9 @@
     </ClCompile>
     <ClCompile Include="fizzbuzz.c">
       <Filter>Source Files\21_FizzBuzz</Filter>
+    </ClCompile>
+    <ClCompile Include="prime_number.c">
+      <Filter>Source Files\PrimeNumber</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
