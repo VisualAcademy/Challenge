@@ -22,12 +22,12 @@ int main(void)
         {
             if (i % j == 0)
             {
-                sw = 0;
+                sw = 0; // 소수가 아님
                 break;
             }
         }
 
-        if (sw)
+        if (sw) // 소수이면 합계 또는 개수 계산 
         {
             printf("%d\t", i);
             count++; // COUNT
