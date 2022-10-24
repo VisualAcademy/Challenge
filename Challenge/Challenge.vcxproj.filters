@@ -129,9 +129,6 @@
     <ClCompile Include="power.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="bubble_sort.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="pow_sqrt.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -1090,6 +1087,9 @@
       <Filter>Source Files\31_Algorithms</Filter>
     </ClCompile>
     <ClCompile Include="selection_sort.c">
+      <Filter>Source Files\31_Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="bubble_sort.c">
       <Filter>Source Files\31_Algorithms</Filter>
     </ClCompile>
   </ItemGroup>
