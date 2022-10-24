@@ -1089,6 +1089,9 @@
     <ClCompile Include="merge_sort.c">
       <Filter>Source Files\31_Algorithms</Filter>
     </ClCompile>
+    <ClCompile Include="selection_sort.c">
+      <Filter>Source Files\31_Algorithms</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Docs.txt">
