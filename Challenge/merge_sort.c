@@ -12,9 +12,9 @@
 int main(void)
 {
     //[1] Init/Input
-    static int a[] = { 2, 4, 6, 8, 10, 12, 14, 16, 18, 20 };
-    static int b[] = { 1, 3, 5, 7, 9 };
-    static int c[M + N];	//병합된 데이터 저장
+    static int a[] = { 2, 4, 6, 8, 10, 12, 14, 16, 18, 20 }; // 오름차순 정렬됨
+    static int b[] = { 1, 3, 5, 7, 9 }; // 오름차순 정렬됨
+    static int c[M + N]; // 병합된 데이터 저장
 
     //[2] Process
     int i, j, k;
@@ -23,7 +23,7 @@ int main(void)
 
     while (i < M && j < N)	//a[], b[] 모두 끝에 도달하지 않은 동안
     {
-        if (a[i] <= b[j])
+        if (a[i] <= b[j]) // 작은 값을 c 배열에 저장
         {
             c[k++] = a[i++];
         }
@@ -33,12 +33,12 @@ int main(void)
         }
     }
 
-    while (i < M)		//a[]가 끝에 도달할 때까지
+    while (i < M) //a[]가 끝에 도달할 때까지
     {
         c[k++] = a[i++];
     }
 
-    while (j < N)		//b[]가 끝에 도달할 때까지
+    while (j < N) //b[]가 끝에 도달할 때까지
     {
         c[k++] = b[j++];
     }
