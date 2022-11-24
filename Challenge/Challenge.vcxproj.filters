@@ -1095,6 +1095,9 @@
     <ClCompile Include="binary_search.c">
       <Filter>Source Files\31_Algorithms</Filter>
     </ClCompile>
+    <ClCompile Include="exit_success.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Docs.txt">
