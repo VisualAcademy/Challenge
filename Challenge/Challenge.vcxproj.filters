@@ -1098,6 +1098,9 @@
     <ClCompile Include="exit_success.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="for_alphabet_2.c">
+      <Filter>Source Files\15_For</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Docs.txt">
