@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31808.319
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Challenge", "Challenge\Challenge.vcxproj", "{EAE7B7B3-DE39-4E20-954B-A79EF6E55B52}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gilbut", "Gilbut\Gilbut.vcxproj", "{B9C6E1F0-BA2D-486F-A396-D9017DCA32A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{EAE7B7B3-DE39-4E20-954B-A79EF6E55B52}.Release|x64.Build.0 = Release|x64
 		{EAE7B7B3-DE39-4E20-954B-A79EF6E55B52}.Release|x86.ActiveCfg = Release|Win32
 		{EAE7B7B3-DE39-4E20-954B-A79EF6E55B52}.Release|x86.Build.0 = Release|Win32
+		{B9C6E1F0-BA2D-486F-A396-D9017DCA32A5}.Debug|x64.ActiveCfg = Debug|x64
+		{B9C6E1F0-BA2D-486F-A396-D9017DCA32A5}.Debug|x64.Build.0 = Debug|x64
+		{B9C6E1F0-BA2D-486F-A396-D9017DCA32A5}.Debug|x86.ActiveCfg = Debug|Win32
+		{B9C6E1F0-BA2D-486F-A396-D9017DCA32A5}.Debug|x86.Build.0 = Debug|Win32
+		{B9C6E1F0-BA2D-486F-A396-D9017DCA32A5}.Release|x64.ActiveCfg = Release|x64
+		{B9C6E1F0-BA2D-486F-A396-D9017DCA32A5}.Release|x64.Build.0 = Release|x64
+		{B9C6E1F0-BA2D-486F-A396-D9017DCA32A5}.Release|x86.ActiveCfg = Release|Win32
+		{B9C6E1F0-BA2D-486F-A396-D9017DCA32A5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
