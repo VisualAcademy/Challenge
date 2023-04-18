@@ -36,5 +36,8 @@
     <ClCompile Include="tolower.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="bool_type.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
