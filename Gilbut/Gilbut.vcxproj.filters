@@ -63,5 +63,8 @@
     <ClCompile Include="array_index.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="array_total_avg.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
