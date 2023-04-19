@@ -72,5 +72,8 @@
     <ClCompile Include="array_while.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="array_size.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
