@@ -4,7 +4,7 @@
 // 매개 변수가 있는 함수
 void show_message(char* message)
 {
-    puts(message); // 넘어온 매개 변수의 값을 출력
+    printf("%s\n", message); // 넘어온 매개 변수의 값을 출력
 }
 
 int main(void)
